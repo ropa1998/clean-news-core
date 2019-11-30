@@ -54,6 +54,7 @@ class ScrapperTest {
     void FasterFileFlusherWorks() {
         Medium medium = new implementations.core.Medium("Fake Pagina12", "all fake", "really just fake");
         Article article = new implementations.core.Article("Lorem ipsum", "", "", medium);
+        //TODO habria que meter una factory por aca
         Flusher flusher = new FileFlusher(directory + "pagina12.txt");
         flusher.flush(article);
 

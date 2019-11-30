@@ -80,7 +80,7 @@ public class Utils {
             builder.append(ALPHA_NUMERIC_STRING.charAt(character));
         }
         return builder.toString();
-
     }
+
 
 }

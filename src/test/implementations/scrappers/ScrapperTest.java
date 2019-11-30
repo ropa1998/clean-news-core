@@ -16,6 +16,7 @@ class ScrapperTest {
 
     WebClient webClient;
     private final String directory = "src/test/implementations/scrappers/test-results/";
+    private final String mockDirectory = "src/test/implementations/scrappers/mock-tests-results/";
 
     public ScrapperTest() {
         WebClientFactory webClientFactory = new WebClientFactory();
@@ -51,11 +52,11 @@ class ScrapperTest {
     }
 
     @Test
-    void FasterFileFlusherWorks() {
+    void MockFileFlusherWorks() {
         Medium medium = new implementations.core.Medium("Fake Pagina12", "all fake", "really just fake");
         Article article = new implementations.core.Article("Lorem ipsum", "", "", medium);
         //TODO habria que meter una factory por aca
-        Flusher flusher = new FileFlusher(directory + "pagina12.txt");
+        Flusher flusher = new FileFlusher(mockDirectory + "pagina12.txt");
         flusher.flush(article);
 
     }

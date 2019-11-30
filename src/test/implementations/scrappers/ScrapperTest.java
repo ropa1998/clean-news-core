@@ -2,6 +2,7 @@ package implementations.scrappers;
 
 import com.gargoylesoftware.htmlunit.WebClient;
 import implementations.factory.WebClientFactory;
+import implementations.flusher.FileFlusher;
 import implementations.flusher.SoutFlusher;
 import implementations.scrappers.medium.Pagina12Scrapper;
 import interfaces.Article;
@@ -31,7 +32,20 @@ class ScrapperTest {
         for (Article article : pagina12Scrapper.getArticles()) {
             flusher.flush(article);
         }
-
     }
+
+//    @Test
+//    void FileFlusherWorks() {
+//        MediumScrapper pagina12Scrapper = new Pagina12Scrapper(webClient);
+//        StopWatch stopWatch = new StopWatch();
+//        stopWatch.start();
+//        pagina12Scrapper.run();
+//        stopWatch.stop();
+//        System.out.println(stopWatch.getTime());
+//        Flusher flusher = new FileFlusher();
+//        for (Article article : pagina12Scrapper.getArticles()) {
+//            flusher.flush(article);
+//        }
+//    }
 
 }

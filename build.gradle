@@ -20,11 +20,21 @@ sourceSets {
             srcDirs 'src/main'
         }
     }
-    test{
-        java{
+    test {
+        java {
             srcDirs 'src/test'
         }
     }
+
+    integrationTest {
+        java {
+            compileClasspath += main.output + test.output
+            runtimeClasspath += main.output + test.output
+            srcDir file('src/integration-test/java')
+        }
+        resources.srcDir file('src/integration-test/resources')
+    }
+
 }
 
 

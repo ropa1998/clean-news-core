@@ -15,6 +15,7 @@ public abstract class MediumScrapper implements interfaces.MediumScrapper {
     protected WebClient webClient;
 
     public MediumScrapper(WebClient webClient, Medium medium) {
+        this.titles = new HashSet<>();
         this.medium = medium;
         articles = new HashSet<>();
         this.webClient = webClient;
@@ -25,7 +26,9 @@ public abstract class MediumScrapper implements interfaces.MediumScrapper {
         this.titles = scrapTitles();
         for (Title title : this.titles) {
             Article article = scrapArticle(title);
-            articles.add(article);
+            if (article != null) {
+                articles.add(article);
+            }
         }
     }
 

@@ -8,6 +8,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlElement;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import implementations.core.Medium;
 import implementations.core.Title;
+import implementations.scrappers.Utils;
 import interfaces.Article;
 
 import javax.management.InvalidAttributeValueException;
@@ -18,7 +19,7 @@ public class Pagina12Scrapper extends MediumScrapper {
 
 
     public Pagina12Scrapper(WebClient webClient) {
-        super(webClient, new Medium("Pagina12", "https://www.pagina12.com.ar/", ""));
+        super(webClient, new Medium("Pagina12", "https://www.pagina12.com.ar/", "//article"));
     }
 
     @Override
@@ -36,9 +37,9 @@ public class Pagina12Scrapper extends MediumScrapper {
                     DomNodeList<HtmlElement> a = titleDomElem.getElementsByTagName("a");
 
 
-//                    for (HtmlElement htmlElement : a) {
-//                        url = core.Utils.cleanURL(htmlElement.getAttribute("href"), medium);
-//                    }
+                    for (HtmlElement htmlElement : a) {
+                        url = Utils.cleanURL(htmlElement.getAttribute("href"), medium);
+                    }
 
                     if (url.length() == 0) {
                         url = titleDomElem.getAttribute("href");
@@ -63,7 +64,28 @@ public class Pagina12Scrapper extends MediumScrapper {
 
     @Override
     protected Article scrapArticle(interfaces.Title title) {
-        return null;
+        Article article = null;
+        try {
+            HtmlPage htmlPage = webClient.getPage(title.getUrl());
+            List<DomElement> paragraphs = htmlPage.getByXPath("//p");
+            StringBuilder stringBuilder = new StringBuilder();
+            for (DomElement paragraph : paragraphs) {
+                if (paragraph.getTextContent().length() > 20) {
+                    String paragraphText = paragraph.getTextContent();
+                    paragraphText = paragraphText.replace("\n", " ");
+                    paragraphText = Utils.cleanExtraSpacesInString(paragraphText);
+                    stringBuilder.append(paragraphText);
+                    stringBuilder.append("\n");
+                }
+            }
+            if (stringBuilder.length() == 0) {
+                stringBuilder.append("<Empty body>");
+            }
+            article = new implementations.core.Article(title.getTitle(), stringBuilder.toString(), title.getUrl(), title.getMedium());
+        } catch (Exception e) {
+            System.err.println(e.getMessage());
+        }
+        return article;
     }
 
 

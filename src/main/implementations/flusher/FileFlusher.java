@@ -25,18 +25,18 @@ public class FileFlusher implements Flusher {
     public void flush(Article article) {
         try {
             PrintWriter writer = new PrintWriter(this.path, "UTF-8");
-            writer.println("\n");
-            writer.println("--------------------------------------");
-            writer.println("TITLE");
-            writer.println(article.getTitle());
-            writer.println("--------------------------------------");
-            writer.println("BODY");
-            writer.println(article.getBody());
-            writer.println("--------------------------------------");
-            writer.println("MEDIUM");
-            writer.println(article.getMedium().getName());
-            writer.println("--------------------------------------");
-            writer.println("\n");
+            writer.append("\n");
+            writer.append("--------------------------------------");
+            writer.append("TITLE");
+            writer.append(article.getTitle());
+            writer.append("--------------------------------------");
+            writer.append("BODY");
+            writer.append(article.getBody());
+            writer.append("--------------------------------------");
+            writer.append("MEDIUM");
+            writer.append(article.getMedium().getName());
+            writer.append("--------------------------------------");
+            writer.append("\n");
             writer.close();
         } catch (Exception e) {
             System.err.println(e.getMessage());

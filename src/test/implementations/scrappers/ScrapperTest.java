@@ -34,18 +34,18 @@ class ScrapperTest {
         }
     }
 
-//    @Test
-//    void FileFlusherWorks() {
-//        MediumScrapper pagina12Scrapper = new Pagina12Scrapper(webClient);
-//        StopWatch stopWatch = new StopWatch();
-//        stopWatch.start();
-//        pagina12Scrapper.run();
-//        stopWatch.stop();
-//        System.out.println(stopWatch.getTime());
-//        Flusher flusher = new FileFlusher();
-//        for (Article article : pagina12Scrapper.getArticles()) {
-//            flusher.flush(article);
-//        }
-//    }
+    @Test
+    void FileFlusherWorks() {
+        MediumScrapper pagina12Scrapper = new Pagina12Scrapper(webClient);
+        StopWatch stopWatch = new StopWatch();
+        stopWatch.start();
+        pagina12Scrapper.run();
+        stopWatch.stop();
+        System.out.println(stopWatch.getTime());
+        Flusher flusher = new FileFlusher("/home/rodrigo/projects/clean-news-core/src/test/implementations/scrappers/resources/pagina12.txt");
+        for (Article article : pagina12Scrapper.getArticles()) {
+            flusher.flush(article);
+        }
+    }
 
 }

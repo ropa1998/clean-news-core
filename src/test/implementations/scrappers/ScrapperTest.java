@@ -34,9 +34,11 @@ class ScrapperTest {
 
     @Test
     void Pagina12RSSScrapperTimeIs() {
-        MediumScrapper pagina12Scrapper = this.mediumScrapperFactory.getPagina12Scrapper();
+        MediumScrapper pagina12Scrapper = this.mediumScrapperFactory.getPagina12RSSScrapper();
         long duration = ScrapperTimeTest(pagina12Scrapper);
         System.out.println(duration);
+        Flusher flusher = new SoutFlusher();
+        FlushArticles(flusher, pagina12Scrapper);
     }
 
     @Test

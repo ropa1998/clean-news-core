@@ -8,7 +8,7 @@ public abstract class Title implements interfaces.Title {
     private String title;
     private String url;
 
-    public Title(asbtract.Medium medium, String title, String url) {
+    public Title(Medium medium, String title, String url) {
         this.medium = medium;
         this.title = title;
         this.url = url;

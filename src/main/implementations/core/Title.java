@@ -1,6 +1,6 @@
 package implementations.core;
 
-import asbtract.Medium;
+import interfaces.Medium;
 
 public class Title extends asbtract.Title {
 

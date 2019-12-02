@@ -4,6 +4,7 @@ import com.gargoylesoftware.htmlunit.WebClient;
 import implementations.core.Medium;
 import implementations.scrappers.medium.article.BasicArticleScrapper;
 import implementations.scrappers.medium.title.BasicTitleScrapper;
+import implementations.scrappers.medium.title.RSSTitleScrapper;
 import interfaces.MediumScrapper;
 import interfaces.MediumScrapperFactory;
 
@@ -18,5 +19,10 @@ public class BasicMediumScrapperFactory implements MediumScrapperFactory {
     @Override
     public MediumScrapper getPagina12Scrapper() {
         return new implementations.scrappers.medium.MediumScrapper(webClient, new Medium("Pagina12", "https://www.pagina12.com.ar/", "//article"), new BasicTitleScrapper(this.webClient), new BasicArticleScrapper(this.webClient));
+    }
+
+    @Override
+    public MediumScrapper getPagina12RSSScrapper() {
+        return new implementations.scrappers.medium.MediumScrapper(webClient, new Medium("Pagina12 RSS", "https://www.pagina12.com.ar/rss/portada", "item"), new RSSTitleScrapper(this.webClient), new BasicArticleScrapper(this.webClient));
     }
 }

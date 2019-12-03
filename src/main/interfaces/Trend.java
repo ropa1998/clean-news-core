@@ -1,6 +1,7 @@
 package interfaces;
 
-public interface Trend {
-    String getNetwork();
+public interface Trend extends Source {
     String getName();
+
+    Region getRegion();
 }

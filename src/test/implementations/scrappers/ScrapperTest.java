@@ -34,7 +34,7 @@ class ScrapperTest {
 
     @Test
     void Pagina12RSSScrapperTimeIs() {
-        MediumScrapper pagina12Scrapper = this.mediumScrapperFactory.getPagina12RSSScrapper();
+        MediumScrapper pagina12Scrapper = this.mediumScrapperFactory.getPagina12Scrapper();
         long duration = ScrapperTimeTest(pagina12Scrapper);
         System.out.println(duration);
         Flusher flusher = new SoutFlusher();
@@ -61,6 +61,17 @@ class ScrapperTest {
         Article article = new implementations.core.Article("Lorem ipsum", "", "", medium);
         Flusher flusher = new FileFlusher(mockDirectory + "pagina12.txt");
         flusher.flush(article);
+    }
+
+    @Test
+    void TrendScrapperTest() {
+        Network network = new implementations.scrappers.network.Network("https://trends24.in/");
+        Region region = new implementations.core.Region("Argentina", "argentina/");
+        TrendScrapper trendScrapper = new implementations.scrappers.trend.TrendScrapper(webClient, region, network);
+        trendScrapper.run();
+        for (Trend trend : trendScrapper.getTrends()) {
+            System.out.println(trend.getName());
+        }
     }
 
     private long ScrapperTimeTest(MediumScrapper mediumScrapper) {

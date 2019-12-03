@@ -1,4 +1,4 @@
-package implementations.scrappers.network;
+package implementations.scrappers.trend.network;
 
 public class Network implements interfaces.Network {
 

@@ -1,26 +1,11 @@
 package implementations.flusher;
 
+import asbtract.Flusher;
 import interfaces.Article;
-import interfaces.CleanNewsResult;
-import interfaces.Flusher;
 import interfaces.Trend;
 
-import java.util.List;
-import java.util.Map;
+public class SoutFlusher extends Flusher {
 
-public class SoutFlusher implements Flusher {
-
-
-    @Override
-    public void flush(CleanNewsResult cleanNewsResult) {
-        Map<Trend, List<Article>> map = cleanNewsResult.getMap();
-        for (Trend trend : map.keySet()) {
-            flush(trend);
-            for (Article article : map.get(trend)) {
-                flush(article);
-            }
-        }
-    }
 
     @Override
     public void flush(Article article) {

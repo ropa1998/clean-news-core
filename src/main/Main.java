@@ -3,6 +3,7 @@ import implementations.CleanNewsEngine;
 import implementations.factory.RSSMediumScrapperFactory;
 import implementations.factory.Trends24ScrapperFactory;
 import implementations.factory.WebClientFactory;
+import implementations.flusher.FileFlusher;
 import implementations.flusher.SoutFlusher;
 import interfaces.*;
 
@@ -29,7 +30,7 @@ public class Main {
 
         CleanNewsResult cleanNewsResult = cleanNewsEngine.getResult();
 
-        Flusher flusher = new SoutFlusher();
+        Flusher flusher = new FileFlusher("src/test/implementations/scrappers/test-results/result.txt");
         flusher.flush(cleanNewsResult);
     }
 

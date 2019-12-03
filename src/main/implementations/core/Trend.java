@@ -30,4 +30,21 @@ public class Trend implements interfaces.Trend {
     public String getScrappingURL() {
         return scrappingURL;
     }
+
+    @Override
+    public int hashCode() {
+        return name.hashCode();
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        return (obj instanceof Trend && ((Trend) obj).name.equals(this.name));
+
+    }
+
+    @Override
+    public String toString() {
+        return "Trend : " + this.name;
+    }
+
 }

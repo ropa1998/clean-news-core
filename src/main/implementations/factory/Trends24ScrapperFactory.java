@@ -15,7 +15,7 @@ public class Trends24ScrapperFactory extends TrendScrapperFactory {
     @Override
     public TrendScrapper getArgentinaScrapper() {
         Region region = new implementations.core.Region("Argentina", "argentina");
-        Network network = new implementations.scrappers.network.Network("https://trends24.in/");
+        Network network = new implementations.scrappers.trend.network.Network("https://trends24.in/");
         return new implementations.scrappers.trend.TrendScrapper(this.webClient, region, network);
     }
 }

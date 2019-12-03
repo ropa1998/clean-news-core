@@ -5,12 +5,21 @@ import interfaces.CleanNewsResult;
 import interfaces.Flusher;
 import interfaces.Trend;
 
+import java.util.List;
+import java.util.Map;
+
 public class SoutFlusher implements Flusher {
 
 
     @Override
     public void flush(CleanNewsResult cleanNewsResult) {
-
+        Map<Trend, List<Article>> map = cleanNewsResult.getMap();
+        for (Trend trend : map.keySet()) {
+            flush(trend);
+            for (Article article : map.get(trend)) {
+                flush(article);
+            }
+        }
     }
 
     @Override
@@ -33,7 +42,7 @@ public class SoutFlusher implements Flusher {
     public void flush(Trend trend) {
         System.out.println("\n");
         System.out.println("--------------------------------------");
-        System.out.println("NAME");
+        System.out.println("TREND");
         System.out.println(trend.getName());
         System.out.println("--------------------------------------");
         System.out.println("\n");

@@ -1,10 +1,12 @@
 package interfaces;
 
-import java.util.Set;
+import java.util.List;
+import java.util.Map;
 
 public interface CleanNewsResult {
 
-    Set<Article> getArticles();
-    Set<Trend> getTrends();
+    Map<Trend, List<Article>> getMap();
+
+    void add(Trend trend, Article article);
 
 }

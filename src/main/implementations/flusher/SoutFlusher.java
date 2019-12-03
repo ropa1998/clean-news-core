@@ -31,6 +31,11 @@ public class SoutFlusher implements Flusher {
 
     @Override
     public void flush(Trend trend) {
-
+        System.out.println("\n");
+        System.out.println("--------------------------------------");
+        System.out.println("NAME");
+        System.out.println(trend.getName());
+        System.out.println("--------------------------------------");
+        System.out.println("\n");
     }
 }

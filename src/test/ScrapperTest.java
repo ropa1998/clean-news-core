@@ -1,7 +1,6 @@
 
 
 import com.gargoylesoftware.htmlunit.WebClient;
-import implementations.factory.BasicMediumScrapperFactory;
 import implementations.factory.RSSMediumScrapperFactory;
 import implementations.factory.WebClientFactory;
 import implementations.flusher.FileFlusher;
@@ -62,6 +61,18 @@ class ScrapperTest {
         Article article = new implementations.core.Article("Lorem ipsum", "", "", medium);
         Flusher flusher = new FileFlusher(mockDirectory + "pagina12.txt");
         flusher.flush(article);
+    }
+
+    @Test
+    void TrendsProperlyScrapped() {
+        Region region = new implementations.core.Region("Argentina", "argentina");
+        Network network = new implementations.scrappers.network.Network("https://trends24.in/");
+        TrendScrapper trendScrapper = new implementations.scrappers.trend.TrendScrapper(webClient, region, network);
+        trendScrapper.run();
+        Flusher flusher = new SoutFlusher();
+        for (Trend trend : trendScrapper.getTrends()) {
+            flusher.flush(trend);
+        }
     }
 
     private long ScrapperTimeTest(MediumScrapper mediumScrapper) {

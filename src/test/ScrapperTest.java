@@ -1,11 +1,22 @@
 
 
 import com.gargoylesoftware.htmlunit.WebClient;
-import implementations.factory.RSSMediumScrapperFactory;
-import implementations.factory.WebClientFactory;
+import implementations.core.article.Article;
+import implementations.core.article.IArticle;
+import implementations.core.medium.IMedium;
+import implementations.core.medium.Medium;
+import implementations.core.region.IRegion;
+import implementations.core.region.Region;
+import implementations.core.trend.ITrend;
+import implementations.factory.mediumScrapper.IMediumScrapperFactory;
+import implementations.factory.mediumScrapper.RSSMediumScrapperFactory;
+import implementations.scrappers.trend.ITrendScrapper;
+import implementations.factory.webclient.WebClientFactory;
 import implementations.flusher.FileFlusher;
+import implementations.flusher.IFlusher;
 import implementations.flusher.SoutFlusher;
-import interfaces.*;
+import implementations.scrappers.medium.IMediumScrapper;
+import implementations.scrappers.trend.network.INetwork;
 import org.apache.commons.lang3.time.StopWatch;
 import org.junit.jupiter.api.Test;
 
@@ -14,7 +25,7 @@ class ScrapperTest {
     WebClient webClient;
     private final String directory = "src/test/implementations/scrappers/test-results/";
     private final String mockDirectory = "src/test/implementations/scrappers/mock-tests-results/";
-    private final MediumScrapperFactory mediumScrapperFactory;
+    private final IMediumScrapperFactory mediumScrapperFactory;
 
     public ScrapperTest() {
         WebClientFactory webClientFactory = new WebClientFactory();
@@ -24,58 +35,58 @@ class ScrapperTest {
 
     @Test
     void Pagina12ScrapperTimeIs() {
-        MediumScrapper pagina12Scrapper = this.mediumScrapperFactory.getPagina12Scrapper();
+        IMediumScrapper pagina12Scrapper = this.mediumScrapperFactory.getPagina12Scrapper();
         long duration = ScrapperTimeTest(pagina12Scrapper);
         System.out.println(duration);
-        Flusher flusher = new SoutFlusher();
+        IFlusher flusher = new SoutFlusher();
         FlushArticles(flusher, pagina12Scrapper);
     }
 
 
     @Test
     void Pagina12RSSScrapperTimeIs() {
-        MediumScrapper pagina12Scrapper = this.mediumScrapperFactory.getPagina12Scrapper();
+        IMediumScrapper pagina12Scrapper = this.mediumScrapperFactory.getPagina12Scrapper();
         long duration = ScrapperTimeTest(pagina12Scrapper);
         System.out.println(duration);
-        Flusher flusher = new SoutFlusher();
+        IFlusher flusher = new SoutFlusher();
         FlushArticles(flusher, pagina12Scrapper);
     }
 
     @Test
     void FileFlusherWorks() {
-        MediumScrapper pagina12Scrapper = this.mediumScrapperFactory.getPagina12Scrapper();
+        IMediumScrapper pagina12Scrapper = this.mediumScrapperFactory.getPagina12Scrapper();
         StopWatch stopWatch = new StopWatch();
         stopWatch.start();
         pagina12Scrapper.run();
         stopWatch.stop();
         System.out.println(stopWatch.getTime());
-        Flusher flusher = new FileFlusher(directory + "pagina12.txt");
-        for (Article article : pagina12Scrapper.getArticles()) {
+        IFlusher flusher = new FileFlusher(directory + "pagina12.txt");
+        for (IArticle article : pagina12Scrapper.getArticles()) {
             flusher.flush(article);
         }
     }
 
     @Test
     void MockFileFlusherWorks() {
-        Medium medium = new implementations.core.Medium("Fake Pagina12", "all fake", "really just fake");
-        Article article = new implementations.core.Article("Lorem ipsum", "", "", medium);
-        Flusher flusher = new FileFlusher(mockDirectory + "pagina12.txt");
+        IMedium medium = new Medium("Fake Pagina12", "all fake", "really just fake");
+        IArticle article = new Article("Lorem ipsum", "", "", medium);
+        IFlusher flusher = new FileFlusher(mockDirectory + "pagina12.txt");
         flusher.flush(article);
     }
 
     @Test
     void TrendsProperlyScrapped() {
-        Region region = new implementations.core.Region("Argentina", "argentina");
-        Network network = new implementations.scrappers.trend.network.Network("https://trends24.in/");
-        TrendScrapper trendScrapper = new implementations.scrappers.trend.TrendScrapper(webClient, region, network);
+        IRegion region = new Region("Argentina", "argentina");
+        INetwork network = new implementations.scrappers.trend.network.Network("https://trends24.in/");
+        ITrendScrapper trendScrapper = new implementations.scrappers.trend.TrendScrapper(webClient, region, network);
         trendScrapper.run();
-        Flusher flusher = new SoutFlusher();
-        for (Trend trend : trendScrapper.getTrends()) {
+        IFlusher flusher = new SoutFlusher();
+        for (ITrend trend : trendScrapper.getTrends()) {
             flusher.flush(trend);
         }
     }
 
-    private long ScrapperTimeTest(MediumScrapper mediumScrapper) {
+    private long ScrapperTimeTest(IMediumScrapper mediumScrapper) {
         StopWatch stopWatch = new StopWatch();
         stopWatch.start();
         mediumScrapper.run();
@@ -83,8 +94,8 @@ class ScrapperTest {
         return stopWatch.getTime();
     }
 
-    private void FlushArticles(Flusher flusher, MediumScrapper mediumScrapper) {
-        for (Article article : mediumScrapper.getArticles()) {
+    private void FlushArticles(IFlusher flusher, IMediumScrapper mediumScrapper) {
+        for (IArticle article : mediumScrapper.getArticles()) {
             flusher.flush(article);
         }
     }

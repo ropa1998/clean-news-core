@@ -1,14 +1,13 @@
 package implementations.flusher;
 
-import asbtract.Flusher;
-import interfaces.Article;
-import interfaces.Trend;
+import implementations.core.article.IArticle;
+import implementations.core.trend.ITrend;
 
-public class SoutFlusher extends Flusher {
+public class SoutFlusher extends AbstractFlusher {
 
 
     @Override
-    public void flush(Article article) {
+    public void flush(IArticle article) {
         System.out.println("\n");
         System.out.println("--------------------------------------");
         System.out.println("TITLE");
@@ -24,7 +23,7 @@ public class SoutFlusher extends Flusher {
     }
 
     @Override
-    public void flush(Trend trend) {
+    public void flush(ITrend trend) {
         System.out.println("\n");
         System.out.println("--------------------------------------");
         System.out.println("TREND");

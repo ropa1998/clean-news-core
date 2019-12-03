@@ -1,11 +1,15 @@
 import com.gargoylesoftware.htmlunit.WebClient;
 import implementations.CleanNewsEngine;
-import implementations.factory.RSSMediumScrapperFactory;
-import implementations.factory.Trends24ScrapperFactory;
-import implementations.factory.WebClientFactory;
+import implementations.core.cleanNewsResult.ICleanNewsResult;
+import implementations.factory.mediumScrapper.IMediumScrapperFactory;
+import implementations.factory.mediumScrapper.RSSMediumScrapperFactory;
+import implementations.factory.trendScrapper.ITrendScrapperFactory;
+import implementations.factory.trendScrapper.Trends24ScrapperFactory;
+import implementations.factory.webclient.WebClientFactory;
 import implementations.flusher.FileFlusher;
-import implementations.flusher.SoutFlusher;
-import interfaces.*;
+import implementations.flusher.IFlusher;
+import implementations.scrappers.medium.IMediumScrapper;
+import implementations.scrappers.trend.ITrendScrapper;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -13,24 +17,24 @@ import java.util.Set;
 public class Main {
 
     public static void main(String[] args) {
-        Set<TrendScrapper> trendScrappers = new HashSet<>();
-        Set<MediumScrapper> mediumScrappers = new HashSet<>();
+        Set<ITrendScrapper> trendScrappers = new HashSet<>();
+        Set<IMediumScrapper> mediumScrappers = new HashSet<>();
 
         WebClientFactory webClientFactory = new WebClientFactory();
         WebClient webClient = webClientFactory.getBasicWebClient();
 
-        MediumScrapperFactory mediumScrapperFactory = new RSSMediumScrapperFactory(webClient);
+        IMediumScrapperFactory mediumScrapperFactory = new RSSMediumScrapperFactory(webClient);
         mediumScrappers.add(mediumScrapperFactory.getPagina12Scrapper());
 
-        TrendScrapperFactory trendScrapperFactory = new Trends24ScrapperFactory(webClient);
+        ITrendScrapperFactory trendScrapperFactory = new Trends24ScrapperFactory(webClient);
         trendScrappers.add(trendScrapperFactory.getArgentinaScrapper());
 
         CleanNewsEngine cleanNewsEngine = new CleanNewsEngine(mediumScrappers, trendScrappers);
         cleanNewsEngine.run();
 
-        CleanNewsResult cleanNewsResult = cleanNewsEngine.getResult();
+        ICleanNewsResult cleanNewsResult = cleanNewsEngine.getResult();
 
-        Flusher flusher = new FileFlusher("src/test/implementations/scrappers/test-results/result.txt");
+        IFlusher flusher = new FileFlusher("src/main/resources/results/result.txt");
         flusher.flush(cleanNewsResult);
     }
 

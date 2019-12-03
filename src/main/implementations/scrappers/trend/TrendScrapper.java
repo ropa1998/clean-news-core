@@ -5,22 +5,23 @@ import com.gargoylesoftware.htmlunit.html.DomElement;
 import com.gargoylesoftware.htmlunit.html.DomNodeList;
 import com.gargoylesoftware.htmlunit.html.HtmlElement;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
-import interfaces.Network;
-import interfaces.Region;
-import interfaces.Trend;
+import implementations.core.trend.Trend;
+import implementations.scrappers.trend.network.INetwork;
+import implementations.core.region.IRegion;
+import implementations.core.trend.ITrend;
 
 import java.util.List;
 import java.util.Set;
 
-public class TrendScrapper extends asbtract.TrendScrapper {
+public class TrendScrapper extends AbstractTrendScrapper {
 
 
-    public TrendScrapper(WebClient webClient, Region region, Network network) {
+    public TrendScrapper(WebClient webClient, IRegion region, INetwork network) {
         super(webClient, network, region);
     }
 
     @Override
-    public Set<Trend> getTrends() {
+    public Set<ITrend> getTrends() {
         return this.trendSet;
     }
 
@@ -36,7 +37,7 @@ public class TrendScrapper extends asbtract.TrendScrapper {
                     DomNodeList<HtmlElement> a = htmlElement.getElementsByTagName("a");
                     for (HtmlElement element : a) {
                         System.out.println(element.getTextContent());
-                        trendSet.add(new implementations.core.Trend(element.getTextContent(), region, url));
+                        trendSet.add(new Trend(element.getTextContent(), region, url));
                     }
                 }
             }

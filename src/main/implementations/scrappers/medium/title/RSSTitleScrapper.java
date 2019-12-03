@@ -1,21 +1,20 @@
 package implementations.scrappers.medium.title;
 
-import asbtract.Medium;
-import asbtract.TitleScrapper;
+import implementations.core.medium.AbstractMedium;
 import com.gargoylesoftware.htmlunit.WebClient;
 import implementations.scrappers.medium.title.RSS.RSSReader;
-import interfaces.Title;
+import implementations.core.title.ITitle;
 
 import java.util.Set;
 
-public class RSSTitleScrapper extends TitleScrapper {
+public class RSSTitleScrapper extends AbstractTitleScrapper {
 
     public RSSTitleScrapper(WebClient webClient) {
         super(webClient);
     }
 
     @Override
-    public Set<Title> scrap(Medium medium) {
+    public Set<ITitle> scrap(AbstractMedium medium) {
         RSSReader reader = new RSSReader(medium);
         return reader.readTitles();
     }

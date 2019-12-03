@@ -1,7 +1,7 @@
 package implementations.scrappers;
 
-import interfaces.Article;
-import interfaces.Medium;
+import implementations.core.article.IArticle;
+import implementations.core.medium.IMedium;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,7 +24,7 @@ public class Utils {
         return cleanExtraSpacesInString(result.toString().trim());
     }
 
-    public static String cleanURL(final String rawURL, final Medium medium) {
+    public static String cleanURL(final String rawURL, final IMedium medium) {
         StringBuilder urlBuilder = new StringBuilder();
         String finalURL;
         if (!rawURL.contains(medium.getScrapperStartingUrl())) {
@@ -37,13 +37,13 @@ public class Utils {
         return finalURL.replaceAll("#[a-zA-Z]+$", ""); //Clean index.html#comments
     }
 
-    public static boolean listIsEmpty(List<Article> articlesForTrend) {
+    public static boolean listIsEmpty(List<IArticle> articlesForTrend) {
 
         if (articlesForTrend == null || articlesForTrend.size() == 0) {
             return true;
         }
 
-        for (Article article : articlesForTrend) {
+        for (IArticle article : articlesForTrend) {
             if (article == null) {
                 return true;
             }
@@ -52,14 +52,14 @@ public class Utils {
         return false;
     }
 
-    public static List<Article> justThoseWhoContainTheFullWord(List<Article> articles, String search) {
+    public static List<IArticle> justThoseWhoContainTheFullWord(List<IArticle> articles, String search) {
         if (articles.isEmpty()) {
             return articles;
         }
         String regex = "\\b" + search + "\\b";
         Pattern pattern = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
-        List<Article> newArticles = new ArrayList<>();
-        for (Article article : articles) {
+        List<IArticle> newArticles = new ArrayList<>();
+        for (IArticle article : articles) {
             Matcher matcher = pattern.matcher(article.getTitle());
             if (matcher.find()) {
                 newArticles.add(article);

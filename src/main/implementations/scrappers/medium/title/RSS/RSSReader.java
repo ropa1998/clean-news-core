@@ -1,8 +1,9 @@
 package implementations.scrappers.medium.title.RSS;
 
 
-import interfaces.Medium;
-import interfaces.Title;
+import implementations.core.medium.IMedium;
+import implementations.core.title.Title;
+import implementations.core.title.ITitle;
 
 import javax.xml.stream.XMLEventReader;
 import javax.xml.stream.XMLInputFactory;
@@ -25,9 +26,9 @@ public class RSSReader {
     private String ITEM;
 
     private final URL url;
-    private final Medium medium;
+    private final IMedium medium;
 
-    public RSSReader(Medium medium) {
+    public RSSReader(IMedium medium) {
         try {
             this.url = new URL(medium.getScrapperStartingUrl());
             this.medium = medium;
@@ -131,10 +132,10 @@ public class RSSReader {
         return null;
     }
 
-    public Set<Title> readTitles() {
-        Set<Title> result = new HashSet<>();
+    public Set<ITitle> readTitles() {
+        Set<ITitle> result = new HashSet<>();
         for (FeedMessage message : this.readFeed().entries) {
-            Title title = new implementations.core.Title(medium, message.title, message.link);
+            ITitle title = new Title(medium, message.title, message.link);
             result.add(title);
         }
         return result;

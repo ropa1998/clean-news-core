@@ -1,25 +1,25 @@
 package implementations.scrappers.medium;
 
-import asbtract.Medium;
+import implementations.core.medium.AbstractMedium;
 import com.gargoylesoftware.htmlunit.WebClient;
-import interfaces.Article;
-import interfaces.ArticleScrapper;
-import interfaces.Title;
-import interfaces.TitleScrapper;
+import implementations.core.article.IArticle;
+import implementations.core.title.ITitle;
+import implementations.scrappers.medium.article.IArticleScrapper;
+import implementations.scrappers.medium.title.ITitleScrapper;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class MediumScrapper implements interfaces.MediumScrapper {
+public class MediumScrapper implements IMediumScrapper {
 
-    private final ArticleScrapper articleScrapper;
-    private final TitleScrapper titleScrapper;
-    protected Set<Article> articles;
-    protected Set<Title> titles;
-    protected Medium medium;
+    private final IArticleScrapper articleScrapper;
+    private final ITitleScrapper titleScrapper;
+    protected Set<IArticle> articles;
+    protected Set<ITitle> titles;
+    protected AbstractMedium medium;
     protected WebClient webClient;
 
-    public MediumScrapper(WebClient webClient, Medium medium, TitleScrapper titleScrapper, ArticleScrapper articleScrapper) {
+    public MediumScrapper(WebClient webClient, AbstractMedium medium, ITitleScrapper titleScrapper, IArticleScrapper articleScrapper) {
         this.titles = new HashSet<>();
         this.medium = medium;
         articles = new HashSet<>();
@@ -31,8 +31,8 @@ public class MediumScrapper implements interfaces.MediumScrapper {
     @Override
     public void run() {
         this.titles = this.titleScrapper.scrap(this.medium);
-        for (Title title : this.titles) {
-            Article article = this.articleScrapper.scrap(title);
+        for (ITitle title : this.titles) {
+            IArticle article = this.articleScrapper.scrap(title);
             if (article != null) {
                 articles.add(article);
             }
@@ -40,7 +40,7 @@ public class MediumScrapper implements interfaces.MediumScrapper {
     }
 
     @Override
-    public Set<Article> getArticles() {
+    public Set<IArticle> getArticles() {
         return articles;
     }
 }

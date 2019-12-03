@@ -1,6 +1,6 @@
 package implementations.scrappers.trend.network;
 
-public class Network implements interfaces.Network {
+public class Network implements INetwork {
 
 
     private final String scrappingURL;

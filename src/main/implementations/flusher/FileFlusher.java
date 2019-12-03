@@ -1,8 +1,7 @@
 package implementations.flusher;
 
-import asbtract.Flusher;
-import interfaces.Article;
-import interfaces.Trend;
+import implementations.core.article.IArticle;
+import implementations.core.trend.ITrend;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -10,7 +9,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
 
-public class FileFlusher extends Flusher {
+public class FileFlusher extends AbstractFlusher {
 
 
     private File file;
@@ -50,7 +49,7 @@ public class FileFlusher extends Flusher {
 
 
     @Override
-    public void flush(Article article) {
+    public void flush(IArticle article) {
         try {
             BufferedWriter output = new BufferedWriter(new FileWriter(file, true));
             output.append("--------------------------------------");
@@ -82,7 +81,7 @@ public class FileFlusher extends Flusher {
     }
 
     @Override
-    public void flush(Trend trend) {
+    public void flush(ITrend trend) {
         try {
             BufferedWriter output = new BufferedWriter(new FileWriter(file, true));
             output.append("--------------------------------------");

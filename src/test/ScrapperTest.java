@@ -23,8 +23,8 @@ import org.junit.jupiter.api.Test;
 class ScrapperTest {
 
     WebClient webClient;
-    private final String directory = "src/test/implementations/scrappers/test-results/";
-    private final String mockDirectory = "src/test/implementations/scrappers/mock-tests-results/";
+    private final String directory = "src/test/results/real/";
+    private final String mockDirectory = "src/test/results/mock/";
     private final IMediumScrapperFactory mediumScrapperFactory;
 
     public ScrapperTest() {

@@ -4,11 +4,9 @@ import implementations.core.medium.IMedium;
 import implementations.core.medium.Medium;
 import org.junit.jupiter.api.Test;
 
-import java.time.LocalDateTime;
 import java.util.HashSet;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class IArticleTest {
 
@@ -26,7 +24,7 @@ class IArticleTest {
 
         assertEquals(article.getTitle(), title);
         assertEquals(article.getBody(), body);
-//        assertTrue(article.getDate().isBefore(LocalDateTime.now()));
+        article.getDate();
         assertEquals(article.getMedium(), medium);
         assertEquals(article.getUrl(), url);
         assertEquals(article.getTrends(), new HashSet<>());

@@ -37,6 +37,8 @@ class ITrendTest {
 
         ITrend trend1 = new Trend("Hola", region, "SURL");
         trends.add(trend1);
+
+        System.out.println(trend.toString());
     }
 
 }

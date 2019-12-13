@@ -36,9 +36,9 @@ publishing {
     publications {
         mavenJava(MavenPublication) {
             pom {
-                name = 'clean-news-cre'
+                name = 'clean-news-core'
                 description = 'A library that provides tools that allow users to scrap articles and trends from the Web. There is also a built-in component to cross the articles and trends'
-                url = 'http://www.example.com/library'
+                url = 'https://github.com/ropa1998/clean-news-core'
                 licenses {
                     license {
                         name = 'The Apache License, Version 2.0'
@@ -47,15 +47,15 @@ publishing {
                 }
                 developers {
                     developer {
-                        id = 'johnd'
-                        name = 'John Doe'
-                        email = 'john.doe@example.com'
+                        id = 'ropa1998'
+                        name = 'Rodrigo Pazos'
+                        email = 'ropa1998@gmail.com'
                     }
                 }
                 scm {
                     connection = 'scm:git:git://example.com/my-library.git'
                     developerConnection = 'scm:git:ssh://example.com/my-library.git'
-                    url = 'http://example.com/my-library/'
+                    url = 'https://github.com/ropa1998/clean-news-core'
                 }
             }
         }

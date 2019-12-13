@@ -143,3 +143,4 @@ gradle-app.setting
 /gradle/
 /src/test/implementations/scrappers/mock-tests-results/pagina12.txt
 /src/test/implementations/scrappers/test-results/pagina12.txt
+/doxygen/

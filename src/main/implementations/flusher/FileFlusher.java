@@ -35,7 +35,7 @@ public class FileFlusher extends AbstractFlusher {
 
         output.write("///////////////////////////////////////////////////////////////////");
         output.newLine();
-        output.write("BEGINING OF FILE");
+        output.write("BEGINNING OF FILE");
         output.newLine();
         output.write("DATE: " + LocalDateTime.now().toString());
         output.newLine();

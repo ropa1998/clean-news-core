@@ -4,7 +4,7 @@
  * This is a general purpose Gradle build.
  * Learn how to create Gradle builds at https://guides.gradle.org/creating-new-gradle-builds/
  */
-apply plugin: 'java'
+apply plugin: 'java-library'
 apply plugin: 'maven-publish'
 
 sourceCompatibility = 1.8
@@ -14,22 +14,6 @@ repositories {
     mavenCentral()
     mavenLocal()
 }
-
-sourceSets {
-    main {
-        java {
-            srcDirs 'src/main'
-        }
-    }
-    test {
-        java {
-            srcDirs 'src/test'
-        }
-    }
-
-}
-
-
 
 
 publishing {
@@ -61,8 +45,6 @@ publishing {
         }
     }
 }
-
-
 
 
 test {

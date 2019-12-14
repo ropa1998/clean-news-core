@@ -1,29 +1,42 @@
 ///////////////////////////////////////////////////////////////////
 BEGINNING OF FILE
-DATE: 2019-12-14T12:01:01.591606
+DATE: 2019-12-14T19:41:38.518413
 ///////////////////////////////////////////////////////////////////
 --------------------------------------
 TREND
 De Vido
 ----------------------------------------------------------------------------
 TITLE
-De Vido y Baratta salieron de la cárcel 
+La Justicia concedió la prisión domiciliaria a Julio De Vido y Roberto Baratta y ya están en sus casas
 --------------------------------------
 BODY
-El exministro de Planificación Federal Julio de Vido y el exsecretario de Coordinación de esa cartera Roberto Baratta abandonaron el penal de Ezeiza esta madrugada luego de que la Cámara Federal de Casación le indicara al Tribunal Oral Federal 7 --a cargo de la causa de las fotocopias de los cuadernos-- que haga efectivas las excarcelaciones dictadas a última hora de ayer.
-El TOF 7 había rechazado la excarcelación pedida por los respectivos abogados (Maximiliano Rusconi y Gabriel Palmeiro, en el caso de De Vido, y Alejandro Rúa y Graciana Peñafort, de Baratta), pero Casación tuvo en cuenta que De Vido y Baratta llevan más de dos años de prisión y que no está fundamentado ni el peligro de fuga ni el peligro de entorpecimiento de una investigación.
-En tanto, fuentes ligadas al exministro confirmaron que "está en su casa de Zárate acompañado por su compañera Alessandra Minnicelli y su hijo" desde hoy a alrededor de las 5. Pese a haber abandonado el penal de Ezeiza, el exministro deberá cumplir con una detención domiciliaria que le fue impuesta por el TOF 1 en el marco de la causa en la que se investigan supuestos desmanejos con dinero público que debía destinarse a la mina de carbón de Río Turbio.
-En tanto, Baratta, si bien no tiene dictada la prisión domiciliaria, cumple con el requisito de una tobillera electrónica, a sólo efecto de monitoreo, y se encuentra en su domicilio del barrio porteño de Belgrano, indicaron fuentes de su defensa.
-República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
+Cuatro días después de que el kirchnerismo regresara a la Casa Rosada, el exministro de Planificación Federal, Julio de Vido, y el exsecretario de Coordinación de esa cartera, Roberto Baratta, abandonaron el penal de Ezeiza esta madrugada.
+Ocurrió luego de que la Cámara Federal de Casación le indicara al Tribunal Oral Federal 7, a cargo de la causa de los cuadernos de las coimas, que haga efectiva las excarcelaciones dictadas a última hora de ayer.
+El TOF 7 había rechazado la excarcelación pedida por sus abogados, pero Casación tuvo en cuenta que De Vido y Baratta "llevan más de dos años de prisión y no está fundamentado ni el peligro de fuga ni el peligro de entorpecimiento de una investigación".
+El exministro llegó anoche cerca de las 2 de la madrugada a su chacra de Zárate, acompañado por su mujer Alessandra Minnicelli y de uno de sus hijos, informaron desde su entorno a LA NACION.
+Pese a haber abandonado el penal de Ezeiza, el exministro De Vido deberá cumplir con una detención domiciliaria que le fue impuesta por el TOF 1 en el marco de la causa en la que se investigan supuestos desmanejos con dinero público que debía destinarse a la mina de carbón de Río Turbio.
+Baratta, si bien no tiene dictada la prisión domiciliaria, cumple con el requisito de una tobillera electrónica, a sólo efecto de monitoreo, y se encuentra en su domicilio del barrio porteño de Belgrano, indicaron a Télam fuentes de su defensa.
+La Justicia entendió que tanto De Vido como Baratta son dos personas claves para explicar el funcionamiento de recaudación ilegal que implementó el kirchnerismo mientras Cristina y Néstor Kirchner estuvieron en la Casa Rosada, más conocido como los cuadernos de las coimas. Ambos fueron procesados por el juez Claudio Bonadio como organizadores de la asociación ilícita que describió el chofer Oscar Centeno.
+Pero la situación procesal de los detenidos dio un vuelco cuando los jueces Diego Barrotaveña, Daniel Petrone y Ana María Figueroa de la Cámara de Casación pidieron revisar la situación de los imputados ante los nuevos parámetros fijados por el Congreso y cuestionaron que tribunal oral no haya explicado por qué mantuvo la prisión preventiva sobre los procesados y, en cambio, no aplicó otras medidas menos nocivas.
+"La sala I de la Casación entendió que no se había efectuado un análisis adecuado de los motivos por los que los jueces del tribunal se decidieron por la medida cautelar más severa, es decir, la prisión preventiva. Ello, en virtud de la reciente implementación -parcial- del nuevo procedimiento acusatorio en materia penal", explicaron los jueces Barrotaveña y Petrone mediante un comunicado emitido este viernes.
+Más allá de la prisión domiciliaria, la defensa de De Vido no descarta que la semana próxima recupere la libertad, informaron fuentes judiciales. Desde su entorno analizan distintos caminos para obtener ese beneficio. Por un lado, Casación aún no resolvió una homologación para extender su prisión preventiva en el caso de Río Turbio. Por otro lado, plantearán también ante el TOF N°1 que vuelvan a analizar la situación del exministro ya que sus pares del TOF N°7 ya le otorgaron la libertad.
+"El fallo de Casación de hoy nos parece razonable. Sin embargo, esto no nos hace olvidar que la Justicia le debe a De Vido dos años y dos meses de su vida con una prisión preventiva injustificada. Vamos a investigar si, en realidad, no se trató de una privación ilegítima de la libertad", dijo Maximiliano Rusconi, el abogado del exministro ante la consulta de LA NACION.
+De Vido, superministro del kirchnerismo, fue condenado a cinco años y ocho meses de prisión por haber sido partícipe necesario de la tragedia de Once (52 muertos), pero esa condena todavía no fue confirmada por la Cámara de Casación. Ahora enfrenta un juicio por la causa conocida como "Vialidad", donde comparte el banquillo de los acusados con la vicepresidenta Cristina Kirchner, por la adjudicación de obras viales en la provincia de Santa Cruz de manera favorable al empresario Lázaro Báez.
+La excarcelación de De Vido se efectivizó, finalmente, cuatro días después de que Alberto Fernández desembarcara en la Casa Rosada. El Presidente se había expresado en varias oportunidades, incluso en la última semana, en contra del uso de prisiones preventivas para casos de corrupción, y las calificó de "abusivas" en su discurso de asunción ante la Asamblea Legislativa.
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Miembro de GDA. Grupo de Diarios América
+Copyright 2019 SA LA NACION | Todos los derechos reservados
+Protegido por reCAPTCHA:
+Descargá la aplicación de LA NACION. Es rápida y liviana.
 
 --------------------------------------
 MEDIUM
-Pagina12 RSS
+La Nacion
 --------------------------------------
 
 --------------------------------------
 TITLE
-La Justicia concedió la prisión domiciliaria a Julio De Vido y Roberto Baratta y ya están en sus casas
+Julio De Vido ya está en su chacra en Zárate con una tobillera electrónica
 --------------------------------------
 BODY
 ¿Ya sos suscriptor digital? Ingresá
@@ -48,9 +61,88 @@ La Nacion
 --------------------------------------
 
 --------------------------------------
+TITLE
+De Vido y Baratta salieron de la cárcel 
+--------------------------------------
+BODY
+El exministro de Planificación Federal Julio de Vido y el exsecretario de Coordinación de esa cartera Roberto Baratta abandonaron el penal de Ezeiza esta madrugada luego de que la Cámara Federal de Casación le indicara al Tribunal Oral Federal 7 --a cargo de la causa de las fotocopias de los cuadernos-- que haga efectivas las excarcelaciones dictadas a última hora de ayer.
+El TOF 7 había rechazado la excarcelación pedida por los respectivos abogados (Maximiliano Rusconi y Gabriel Palmeiro, en el caso de De Vido, y Alejandro Rúa y Graciana Peñafort, de Baratta), pero Casación tuvo en cuenta que De Vido y Baratta llevan más de dos años de prisión y que no está fundamentado ni el peligro de fuga ni el peligro de entorpecimiento de una investigación.
+En tanto, fuentes ligadas al exministro confirmaron que "está en su casa de Zárate acompañado por su compañera Alessandra Minnicelli y su hijo" desde hoy a alrededor de las 5. Pese a haber abandonado el penal de Ezeiza, el exministro deberá cumplir con una detención domiciliaria que le fue impuesta por el TOF 1 en el marco de la causa en la que se investigan supuestos desmanejos con dinero público que debía destinarse a la mina de carbón de Río Turbio.
+En tanto, Baratta, si bien no tiene dictada la prisión domiciliaria, cumple con el requisito de una tobillera electrónica, a sólo efecto de monitoreo, y se encuentra en su domicilio del barrio porteño de Belgrano, indicaron fuentes de su defensa.
+República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
+
+--------------------------------------
+MEDIUM
+Pagina12 RSS
+--------------------------------------
+
+--------------------------------------
 TREND
 El Gobierno
 ----------------------------------------------------------------------------
+TITLE
+El Gobierno apura la reforma judicial, pero no impulsará la destitución de jueces de Comodoro Py
+--------------------------------------
+BODY
+El gobierno de Alberto Fernández hará una segunda convocatoria a sesiones extraordinarias para enero, con el objetivo de apurar el tratamiento de la reforma judicial anunciada por el Presidente ante la Asamblea Legislativa.
+Así lo confirmó el jefe de Gabinete, Santiago Cafiero, durante una entrevista con LA NACION. El funcionario negó que se pretenda licuar el poder de los jueces federales de Comodoro Py, pero anticipó que se buscará "generar las modificaciones necesarias para que haya también una idea de mayor justicia y mayor pluralidad".
+Aunque insistió en que hay "detenciones arbitrarias", aseguró que el Poder Ejecutivo no impulsará un juicio político contra ninguno de los magistrados a los que Fernández fustigó durante la campaña por el dictado de esas prisiones preventivas.
+-¿Cómo tomaron la prisión domiciliaria de Julio De Vido?
+-El Presidente fue claro. Somos parte de un gobierno que tiene como manda tratar de hacer todo lo posible para que el Poder Judicial trabaje con total independencia. Es decir, que no haya ninguna intromisión de parte del poder político. Somos respetuosos de las medidas judiciales. Igual, no es que lo han liberado a De Vido. Sigue detenido. Hemos manifestado que había muchas detenciones que nos parecen arbitrarias, pero tomamos una frase del Presidente como una manda: "Cuando la política entra a los tribunales, la justicia escapa por la ventana". Vamos a ser un gobierno que va a buscar que la justicia sea independiente.
+-¿En qué consiste la reforma judicial que están preparando?
+-Eso lo está trabajando el Ministerio de Justicia. No puedo agregar más.
+-¿Cuál es el objetivo?
+-Fortalecer la independencia del Poder Judicial.
+-¿Se va a intentar diluir el poder de los jueces federales de Comodoro Py?
+-No, no. No está en esa lógica. Lo que busca, sí, es tratar de generar las modificaciones necesarias para que haya también una idea de mayor justicia y mayor pluralidad. Va a ser un proyecto que va a ir al Congreso.
+-No, porque nosotros estamos previendo también que vamos a hacer extraordinarias durante el verano. En diciembre, la emergencia económica y después una nueva convocatoria, porque tenemos varios proyectos que nos gustaría que se debatieran en el Congreso.
+-El de la reforma judicial y si terminamos el proyecto también la reforma de la AFI.
+-¿Está intervenida la AFI?
+-El espacio de gestión más técnico ya está trabajando en el organismo. Pero el Presidente va a poner en funciones a la intervención en breve.
+-¿Quién está a cargo hoy de los agentes de inteligencia?
+-Están los empleados de línea más el área administrativa que está trabajando de parte nuestra.
+-¿Quién se está encargando de eso?
+-Un grupo técnico que tiene Alberto.
+-El Presidente ha sido muy crítico de algunos jueces. ¿Está previsto iniciar un juicio político con alguno de los jueces?
+-¿Y por qué no, si hicieron acusaciones muy fuertes contra algunos de esos jueces?
+-Porque hay mecanismos para generar ámbitos donde los jueces den explicaciones sobre sus fallos. Esos mecanismos están en la Constitución, con lo cual no va a ser por impulso del Poder Ejecutivo.
+-El Poder Ejecutivo tiene un representante en el Consejo de la Magistratura. Podría presentar un pedido de juicio político.
+-Es un cuerpo colegiado donde están los magistrados, los abogados, los legisladores.
+-¿El representante del Poder Ejecutivo no va a impulsar un juicio político?
+-¿Está definido el titular de la Oficina Anticorrupción?
+-Sí, lo va a anunciar el Presidente.
+-¿Van a proponer a Daniel Rafecas para la Procuración General?
+-El Presidente va a anunciar al candidato en su momento.
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Miembro de GDA. Grupo de Diarios América
+Copyright 2019 SA LA NACION | Todos los derechos reservados
+Protegido por reCAPTCHA:
+Descargá la aplicación de LA NACION. Es rápida y liviana.
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TITLE
+El Gobierno anuló el decreto de Macri que dejaba tres mil funcionarios propios en el Estado
+--------------------------------------
+BODY
+El gobierno nacional suspendió el decreto 788/19 de Mauricio Macri que dejaba dentro de la estructura del Estado a 3 mil funcionarios de la anterior administración. Lo hizo a través del decreto 36/2019, que se publicó hoy en el Boletín Oficial.
+Entre otros considerandos, el decreto que llevas las firmas del presidente Alberto Fernández y del Jefe de Gabinete Santiago Cafiero, destaca que “el Presupuesto Nacional para el Ejercicio 2019 no contempló la mayor erogación que resultaría de la puesta en vigor del Régimen para el Personal de la Alta Dirección Pública, en atención a la nueva escala retributiva prevista para dicho personal”. También alude al hecho de que el Presupuesto 2020, enviado en septiembre al Congreso, “tampoco previó la erogación que implicaría el Régimen contenido en los convenios suscriptos el 6 de junio y el 27 de julio de 2019”.
+La polémica normativa que Macri firmó pocos días antes de dejar el gobierno extendía por cinco años la estabilidad laboral para directores y jerárquicos nombrados por su gestión y establecía indemnizaciones millonarias si eran despedidos. Ana Castellani, secretaria de Gestión y Empleo Público de la Nación, sostuvo que aquél decreto es "una grave distorsión de los principios establecidos en relación con el Empleo Público, afectando derechos y deberes de empleados y funcionarios y atentando contra los recursos del Estado".
+A partir de la suspensión por 180 días del decreto macrista, el Gobierno convoca a la Comisión Negociadora del Convenio Colectivo de Trabajo General para la Administración Pública a reunirse dentro de los próximo 90 días. Además, se estableció que “en ningún caso la prórroga de las designaciones que se instrumenten” a partir del cuestionado decreto, “podrá exceder el 31 de marzo de 2020”.
+En uno de sus artículos, el decreto que se publicó hoy instruye a todos los ministros y secretarios, así como a las “autoridades superiores de organismos descentralizados, empresas y sociedades del Estado de la Administración Pública Nacional” a revisar todos los procesos concursales y de selección de personal. Deberá cumplimentarse dentro de los próximos seis meses. También se establece que dentro de los próximos tres meses deberán ser revisadas “las designaciones efectuadas por procesos concursales de personal” en la administración pública durante los últimos dos años, “con el propósito de analizar su legalidad, y en particular el cumplimiento y pertinencia de los requisitos previstos para el cargo concursado y los antecedentes presentados por los y las postulantes”.
+El macrismo había llegado al gobierno con un discurso que verbalizó el primer ministro de Hacienda de Macri al hablar de ”grasa militante”. Hubo un fuerte ajuste en la administración pública. Cientos de trabajadores fueron cesanteados y acusados de “ñoquis” para justificar los despidos. Cuatro años más tarde, al terminar su mandato, quiso meter por la ventana a su tropa propia y llegó la respuesta del nuevo gobierno. El propio Alberto Fernández había dicho que es “respetuoso de la carrera administrativa” y había anticipado la medida que se concretó en las últimas horas. 
+República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
+
+--------------------------------------
+MEDIUM
+Pagina12 RSS
+--------------------------------------
+
+--------------------------------------
 TITLE
 El Gobierno modificó el esquema de retenciones agropecuarias
 --------------------------------------
@@ -67,32 +159,6 @@ República Argentina | Todos los derechos reservados | Política de privacidad |
 --------------------------------------
 MEDIUM
 Pagina12 RSS
---------------------------------------
-
---------------------------------------
-TITLE
-El Gobierno cambió el esquema de retenciones y decidió aumentarlas
---------------------------------------
-BODY
-El Gobierno decidió hoy cerrar el registro para declarar las exportaciones de granos y subproductos y aumentar las retenciones.
-En una resolución publicada este sábado en el Boletín Oficial, que lleva el número 196, el ministro de Agricultura Luis Basterra suspendió para el próximo lunes cualquier registro de venta al exterior.
-Por otra parte, con el decreto 37, firmado por el presidente Alberto Fernández; el jefe de Gabinete, Santiago Cafiero; el ministro de Economía, Martín Guzmán, y Basterra, se dejó sin efecto el esquema de retenciones de 4 pesos por dólar exportado. Al eliminarse el tope de $4 por dólar queda, no obstante, un 12% de retenciones.
-La soja, por ejemplo, ya tenía un 18% fijo y pagaba 4 pesos por dólar. Sube con la modificación a una tasa total del 30%. Trigo, maíz y otros productos, que pagaban solo $4 por dólar, quedan con un 12%. En tanto, carnes, leche en polvo, harinas y legumbres tendrán un 9% fijo.
-Cuando el gobierno anterior puso en septiembre de 2018 las retenciones de $4 por dólar, con un valor de la divisa norteamericana a $38 equivalían a 10%. Hoy con la suba del dólar representan en torno de un 5%.
-"Esto no va a caer bien en el sector, no va a gustar", dijo Matías De Velazco, presidente de la Confederación de Asociaciones Rurales de Buenos Aires y La Pampa ( Carbap).
-Carlos Iannizzotto, presidente de Coninagro, señaló que el presidente Alberto Fernández "comienza a faltar a su palabra" porque "dijo que no iba hacer cosas sin consultas". "Esperábamos un anuncio a favor de la producción, alentándola", señaló.
-"Cuando [Alberto Fernández] era candidato dijo que nos iba a consultar, y eso no ha sucedido. Con el ministro [ Luis Basterra] nos juntamos el jueves y no nos comentó nada", señaló en la misma línea, Daniel Pelegrina, presidente de la Sociedad Rural Argentina, a Radio Mitre.
-Jorge Chemes, presidente de Confederaciones Rurales Argentinas (CRA), indicó que la Mesa de Enlace tendrá una reunión "urgente".
-"El diálogo es la principal herramienta y es fundamental que nos escuchen. Creo que ya lo tenían decidido para salir con un efecto sorpresa. El impacto en la rentabilidad va a ser fuerte", señaló a radio Continental. Luego agregó: "Nos vamos a reunir urgente".
-Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
-Miembro de GDA. Grupo de Diarios América
-Copyright 2019 SA LA NACION | Todos los derechos reservados
-Protegido por reCAPTCHA:
-Descargá la aplicación de LA NACION. Es rápida y liviana.
-
---------------------------------------
-MEDIUM
-La Nacion
 --------------------------------------
 
 --------------------------------------
@@ -121,6 +187,29 @@ TITLE
 Qué dijo el director deportivo de Leverkusen sobre la posible llegada de Exequiel Palacios
 --------------------------------------
 BODY
+Simon Rolfes, ex mediocampista del seleccionado alemán y actual director deportivo de Bayer Leverkusen, opinó sobre la posible contratación de Exequiel Palacios, mediocampista de River, en el mercado de pases que se abre en enero. "Sí, claro que estamos buscando buenos jugadores jóvenes. Probablemente, ese chico (por Palacios) encajaría", dijo Rolfes en declaraciones a Forbes.
+Sin embargo, el ex futbolista alemán no confirmó que la transferencia del joven de 21 años que ayer recibió una ovación en Mendoza al ser reemplazado por Lucas Pratto esté finalizada: "Por el momento no es posible decirlo. Pero en general, y lo aseguro, estamos buscando jugadores jóvenes que podamos desarrollar". En esa línea se inscribe el último gran fichaje del equipo farmacéutico (fue fundado por el gigante Bayer): Moussa Diaby. El joven de 20 años formado en el PSG francés tenía ofertas de varios clubes, entre ellos el Milan italiano. Pero eligió Alemania para sumar minutos.
+En Leverkusen, que pagaría algo más que la cláusula de rescisión del mediocampista argentino, Palacios se encontrará con un excompañero: Lucas Alario. El ex delantero de Colón y River tiene competencia por quedarse con el puesto de titular el el equipo alemán, pero sus dos goles en el último partido pueden ayudarlo a permanecer en la formación. Palacios, un mediocampista con panorama y visión, también podría hacer más fácil su tarea.
+Los nombres de Palacios, Diaby y el jamaiquino Leon Bailey, otro titular indiscutido, se inscriben en la estrategia a largo plazo de Leverkusen. "Queremos desarrollar jugadores para el top 6 del mundo, no el top 40. Es difícil y necesitamos otro presupuesto. Nuestra estrategia general es desarrollar para la elite", dijo Rolfes. El "top 6" del que habla el director deportivo de Leverkusen es el exclusivo grupo de clubes que pueden darse el lujo de gastarse más de 50 millones de euros en un futbolista. A esa elite pertenecen Real Madrid, Barcelona, PSG, Bayern, Manchester United, Liverpool y Manchester City, entre otros.
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Miembro de GDA. Grupo de Diarios América
+Copyright 2019 SA LA NACION | Todos los derechos reservados
+Protegido por reCAPTCHA:
+Descargá la aplicación de LA NACION. Es rápida y liviana.
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TREND
+Vangioni
+----------------------------------------------------------------------------
+TITLE
+Mundial de Clubes: un golazo de Lionel Vangioni, lo mejor del triunfo de Monterrey, que se metió en semifinales
+--------------------------------------
+BODY
 ¿Ya sos suscriptor digital? Ingresá
 Valorás el periodismo confiable. Te queremos en LA NACION.
 Durante 3 meses, luego $260/mes
@@ -144,18 +233,19 @@ La Nacion
 
 --------------------------------------
 TREND
-Nico Occhiato
+River
 ----------------------------------------------------------------------------
 TITLE
-ShowMatch 2019: Flor Vigna y Nico Occhiato se enfrentarán en la final del Súper Bailando
+Los avasallantes números de River en la Copa Argentina y todo lo que ganó con el título
 --------------------------------------
 BODY
-Flor Vigna y Nico Occhiato comenzaron juntos en el medio y, aunque se conocieron en el set de Combate, cuando el público los comenzó a registrar ya eran novios. Luego se fueron acompañando y alentando en cuanto proyecto se les pusiera adelante. Ella llegó más rápido a las tapas de las revistas y a los programas de televisión. Lo logró por su talento y simpatía, pero también por haberse convertido en la contracara de Mica Viciconte. Él, de perfil más bajo, comenzó acompañando a su pareja y, mientras soñaba con proyectos propios, fue encontrando su lugar al lado de su compañera. Luego llegaron sucesivas conducciones en Net.TV y un lugar destacado en La tribuna de Guido en 2018.
-Hasta que, este año, a la pareja la golpeó la crisis y se separó, más o menos al mismo tiempo en que Nico comenzó a bailar en la pista de ShowMatch. Lo que el propio participante creía que iban a durar dos galas, terminó el viernes con su consagración como finalista del Bailando 2019.
-En la segunda semi final de este ciclo, Nico y su compañera Flor Jazmín Peña (gran artífice del éxito) se enfrentaron a Karina "La Princesita" y Emiliano Buitrago en dos ritmos: Cumbia y Libre. En el primero, la cantante tropical sacó amplia ventaja a pura sensualidad y talento, y se llevó el primer punto de la noche por votación del jurado y del BAR.
-En la siguiente contienda no quedaron dudas, el equipo de Nico y Flor supo escuchar las devoluciones del jurado a lo largo del año, quienes pedían contundencia y finales potentes. Pusieron todo eso y más para no perder chances. Aunque, desde su casa, el espectador supone que se forzará a los planetas para que se alineen y la definición sea telefónica, lo cierto es que la unanimidad de los siete integrantes del jurado coincidió con lo visto y la pareja se ganó el punto del empate.
-Se reprodujo un compacto que recorrió la historia de ambos participantes en fotos. Antes y después, la emoción se adueñó de toda la familia Occhiato, con su abuela Conce a la cabeza. "Es la primera vez que lo vemos llorar", decía de su nieto, al mismo tiempo que ellos tampoco se podían contener. Tinelli, Florecia Peña, Laura Fidalgo, Anibal Pachano y Flavio Mendoza acompañaron las lágrimas de la pista con más lágrimas. Ángel de Brito y Marcelo Polino mantuvieron la compostura, al menos mientras la cámara los enfocó.
-Ambos eran muy fuertes con el teléfono, aunque Karina tenía más experiencia. Recién bien entrada la medianoche, Marcelo develó la incógnita: con el 53,47% de los votos, Nico Occhiato y Flor Jazmín Peña pasaron a la final del lunes. Los exnovios se verán las caras en un a todo o nada. La destreza versus el esfuerzo de dos personas que se conocen mucho para bien y para mal, en una de las finales más atractivas y menos previsibles en la historia del Bailando.
+MENDOZA.- Los éxitos deportivos tienen diferentes sabores. Hay contextos, pasados recientes, rivalidades y presiones que hacen vivir de formas muy variadas los títulos conquistados. Por eso, anoche River festejó su tercera Copa Argentina con una mezcla de sensaciones: hubo mucha alegría y felicidad entre los 30 mil hinchas presentes en el Estadio Islas Malvinas, pero también fue un gran desahogo que permite mirar el futuro con mayor tranquilidad.
+Ya no hay lugar a dudas: el poderío que River logró construir en la Copa Argentina es tan sorprendente como contundente. Ningún otro equipo pudo competir a tan alto nivel en un torneo que suele ofrecer constantes sorpresas. Las diferencias de categorías muchas veces no terminan siendo decisivas en el resultado final y los grandes batacazos ya son moneda corriente.
+Pero el equipo de Marcelo Gallardo consiguió una estirpe copera que le brinda confianza, determinación y seguridad para afrontar las series mano a mano. Así, durante el ciclo del Muñeco, el Millonario logró superar 25 de las 28 definiciones directas que disputó en el torneo desde 2014. Además, solo perdió un partido en los 90 minutos: Rosario Central lo derrotó 2-0 en los 16vos de final de la edición de 2015.
+De esta manera, River acumula 23 partidos sin perder en la Copa Argentina, con 21 triunfos y dos empates en las últimas cuatro ediciones. En tanto, lleva 63 goles a favor y 12 en contra, logrando mantener en 14 oportunidades la valla invicta. Durante este lapso, siempre que jugó marcó goles, únicamente en tres partidos convirtió solo un tanto, en 16 de los 23 encuentros se impuso por más de un gol de diferencia y en 13 de ellos marcó tres o más goles, tal como ocurrió anoche en Mendoza.
+Si se cuentan todas las ediciones que disputó desde que el torneo volvió a jugarse en 2011/2012, los números también siguen siendo positivos: ganó 26 partidos, empató 6 y perdió únicamente en dos oportunidades. Además de la caída con el Canalla en 2015, también le ganó Estudiantes de Buenos Aires por 1-0 en los 16vos de final, en la única vez que perdió con equipos del ascenso. ¿Las otras eliminaciones? Todas por penales: con Racing (0-0 y 4-5) en semifinales de 2012, con Rosario Central (0-0 y 4-5) en cuartos de final de 2014 y con Gimnasia La Plata en semifinales de 2018 (2-2 y 4-5).
+Por otro lado, con el título, el Millonario logró el ansiado boleto a la etapa de grupos de la Copa Libertadores 2020 y se evitó jugar la fase inicial (había clasificado por ser cuarto en la Superliga 2018/19) que implicaba tener que disputar cuatro partidos en febrero, complicando así el calendario para pelear la Superliga actual. Como si fuese poco, ahora también jugará la Supercopa Argentina ante Racing. El duelo se jugaría en marzo y será la posibilidad de conquistar una nueva corona.
+También es una inyección económica, ya que acumuló 14.400.000 de pesos (ayer ganó 5.900.000) por superar todas las etapas del torneo y además se aseguró los tres millones de dólares por jugar los grupos de la Libertadores. Un éxito desde todo punto de vista que también le permitió alcanzar a Boca, su máximo rival, como máximo campeón con tres coronas.
 Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
 Miembro de GDA. Grupo de Diarios América
 Copyright 2019 SA LA NACION | Todos los derechos reservados
@@ -165,34 +255,6 @@ Descargá la aplicación de LA NACION. Es rápida y liviana.
 --------------------------------------
 MEDIUM
 La Nacion
---------------------------------------
-
---------------------------------------
-TREND
-River
-----------------------------------------------------------------------------
-TITLE
-River Plate es el campeón de la Copa Argentina 2019 
---------------------------------------
-BODY
-El sorprendente Central Córdoba de Santiago del Estero no pudo con este River de Marcelo Gallardo, que lo venció 3-0 en el estadio Malvinas Argentinas de Mendoza, se consagró campeón de la Copa Argentina y obtuvo su pasaje directo a la edición 2020 de la Copa Libertadores. Ignacio Scocco en la primera etapa, Ignacio Fernández -la figura de la cancha- y el ingresado Julián Alvarez en el complemento, los goles millonarios. Este nuevo éxito del club de Núñez permitió que Atlético Tucumán también rubricara su clasificación al máximo torneo continental, en tanto Argentinos Juniors participará de la Sudamericana venidera.
-De entrada, Central Córdoba se paró con cinco defensores y le cedió la pelota a River. Así y todo, tras un lateral en ataque para los santiagueños y un rechazo de la defensa riverplatense, Nani fue el primero en disparar al arco a los 4 minutos, aunque Armani contuvo sin problemas.
-Pese a la buena prestación de Nacho Fernández, ya recuperado de su lesión, el conjunto de Gallardo no encontraba espacios en el cerrado esquema del rival y tuvo su primera llegada clara tras un corner y un cabezazo de Pinola, que le había ganado la posición a Nani, que se fue muy arriba. Enseguida, Scocco acechó con peligro el arco defendido por el Ruso Rodríguez.
-Poco después, un bombazo desde fuera del área de Núñez hizo volar a Armani, que con una mano la mandó al corner de forma magnífica. Poco después, Borré se la bajó a Nacho Scocco, su remate fue tapado por un defensor y de rebote Palacios la mandó muy arriba.
-En la réplica, una corajeada de Herrera terminó con un zurdazo y un nuevo lucimiento del también arquero del seleccionado argentino.
-Cerca de la media hora sobrevino una jugada polémica cuando, tras un doble enganche, Herrera cayó dentro del área tocado por Pinola, aunque el árbitro Tello no lo consideró penal.
-De inmediato, Nacho Scocco abrió la cuenta tras una gran media vuelta y luego de que Rodríguez diera rebote. Hasta ahí y con poco, el Ciruja había puesto en aprietos al siempre seguro Armani; pero el que facturó fue el Millonario, que de este modo comenzó a ser más preciso y a jugar más suelto.
-De vuelta del descanso, Central Córdoba abrió un poco más sus líneas en procura de igualar el trámite, lo que facilitó el trabajo de los mediocampistas, que con el tridente De la Cruz-Palacios-Fernández comenzó a fabricar mejores opciones para sus delanteros. Y si a River le dan espacios...
-Como el gran gasto lo había hecho en los primeros 45 minutos, el Ciruja lució algo cansado en el complemento y la presión sobre el rival ya no era tan asfixiante. Para colmo, una incursión en ataque del lateral Montiel terminó con un centro milimétrico a la cabeza de Scocco, quien la mandó muy cerca del poste derecho.
-Hasta que primero Fernández y luego Alvarez sentenciaron el pleito en cuatro minutos, le dieron a River un nuevo título en la era Gallardo y, a tres semanas de la frustrante excursión por Lima, el pasaje a una nueva ilusión: la Copa Libertadores 2020.
-3 RIVER PLATE: Armani; Montiel, Martínez Quarta, Pinola, Casco; E. Pérez, E. Palacios, De la Cruz; I. Fernández;  Scocco, Borré. DT: Marcelo Gallardo.0 CENTRAL CORDOBA (SdE): D. Rodríguez; Quilez, Salomón, Vera Oviedo, Nani, Bay; Alzugaray, Vega, Meli, G. Núnez; J. Herrera. DT: Gustavo Coleoni.Estadio: Malvinas Argentinas (Mendoza). Arbitro: Facundo Tello.
-Goles: 30m Scocco (R); 67m I. Fernández (R), 71m J. Alvarez (R).
-Cambios: 46m J. Rodríguez por G. Núñez (CC), 65m J. Alvarez por Borré (R), 54m F. Cristaldo por Quilez (CC), 75m Miracco por Alzugaray (CC), 76m Ponzio por E. Pérez (R), 79m Pratto por E. Palacios (R).
-República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
-
---------------------------------------
-MEDIUM
-Pagina12 RSS
 --------------------------------------
 
 --------------------------------------
@@ -215,6 +277,33 @@ Descargá la aplicación de LA NACION. Es rápida y liviana.
 --------------------------------------
 MEDIUM
 La Nacion
+--------------------------------------
+
+--------------------------------------
+TREND
+Chocobar
+----------------------------------------------------------------------------
+TITLE
+El fútbol y su doctrina Chocobar
+--------------------------------------
+BODY
+La ONG Salvemos al Fútbol suele realizar estudios académicos que producen sentido con una mirada opuesta a la subjetividad dominante que entroniza el Estado. Si ese Estado fue el que gobernó Mauricio Macri durante los últimos cuatro años, podría afirmarse que "la doctrina Chocobar se trasladó a todos los ámbitos", dice el presidente de la organización, Mariano Bergés. "El problema de la violencia en el fútbol hoy" – así se titula un informe de octubre pasado– tiene la vigencia de una radiografía actual, pero apoyándose en un trabajo de campo que se proyecta hasta la vuelta de la democracia en 1983. Lo realizó un equipo de especialistas entre quienes están dos experimentados investigadores como Diego Murzi y Federico Czesli que, sin prescindir del análisis de otras etapas, desarrollaron con bastante detalle el período 2016-2019 que definieron como "paradigma de la prohibición y la represión".
+El texto de 23 carillas no tuvo la repercusión que se merecía, pero a casi dos semanas de terminar el año, debería ser la bitácora para proyectar la política por venir, a menudo sesgada a comprender el problema de la violencia en el fútbol –y en el deporte en general– como una cuestión ceñida a las "barras bravas" y no a un problema multicausal.
+"La novedad respecto a gestiones anteriores –que también partían de la lectura metonímica entre violencia en el fútbol y barras bravas– es que este Gobierno caracterizó por primera vez a las barras como "criminalidad organizada", emparentándolas a otras organizaciones –como el narcotráfico– , y privilegiando su perfil mercantil por sobre los otros elementos que las componen (honor, masculinidad, aguante, fiesta, etc.). La importancia que la gestión Macri le asignó a la violencia en el fútbol se hizo patente a partir de las múltiples intervenciones de la ministra Bullrich en cuestiones vinculadas a la temática…", dice el diagnóstico de los especialistas.
+Bergés, quien fuera juez de instrucción y tuvo en sus manos una megacausa sobre violencia en el fútbol, le señaló a Página/12 que "el gobierno de Mauricio Macri fue en materia de seguridad un gobierno marketinero que hizo mucho hincapié en subirle la autoestima a la policía y permitirle una cantidad de excesos que trajeron muertes y que nos va a costar a partir de ahora quitarlas porque el policía se siente parte de esa situación generada y eso trae arbitrariedades en las canchas de fútbol. Creo que vamos a tener que trabajar mucho en modificar los comportamientos abusivos de estos últimos cuatro años".
+En otro tramo del texto se sostiene que "Cambiemos trabajó exclusivamente bajo la lógica de la prohibición, con la premisa de que el hincha de fútbol es un sujeto potencialmente peligroso que debe ser controlado, y no un sujeto de derechos que debe ser cuidado. Así, la política pública nacional central de la gestión (el dispositivo 'Tribuna Segura') consistió en añadir un nuevo control al espacio ya hipervigilado del estadio".
+Una de las conclusiones importantes a las que arribó la investigación de la ONG es que la política del gobierno que acaba de irse "implicó que en los estadios argentinos, y en particular en los de la Provincia de Buenos Aires, se haya perdido calidad democrática para los espectadores. En este sentido, en los últimos años crecieron fuertemente las denuncias sobre arbitrariedades y maltrato de la Policía Bonaerense sobre los hinchas, y ha sido muy cuestionado el titular de la APREVIDE Juan Manuel Lugones, quien fue cobrando un fuerte perfil policialista y ha hecho de la 'guerra' contra las barras una vidriera política".
+La cruzada del ex funcionario macrista avanzó más allá. Algunas de las críticas que recibió fueron porque coartó la posibilidad de ingresar a la cancha con el pañuelo verde, uno de los significantes más fuertes del feminismo, como sucedió en Racing en octubre del año pasado. También le aplicaron el derecho de admisión a imágenes justicialistas en los estadios de Banfield y Sarmiento de Junín (este último lleva curiosamente el nombre de Eva Perón). Las prácticas anti-derechos fueron una característica central del último gobierno.
+Salvemos al Fútbol –una ONG fundada en 2006– analizó políticas anteriores a la etapa macrista y describe el fracaso de todos los gobiernos en la lucha contra la violencia en el fútbol: "sumaron policías, agregaron dispositivos de vigilancia, endurecieron leyes e incrementaron cada vez más los controles en las canchas. Pero ninguna de esas iniciativas fue exitosa: año a año se reproducen los incidentes y las muertes, y la percepción general de la sociedad es que los estadios argentinos son espacios violentos".
+La alta exposición pública con que Bullrich y otros funcionarios intentaron disimular su escasa eficacia para resolver un problema que lleva más de cuatro décadas, quedó expuesta en otra parte del trabajo: "Cambiemos hizo con la seguridad deportiva un importante foco de comunicación política y de gestión. El marketing securitario estuvo siempre a la orden del día a través de comunicaciones en redes sociales de los principales funcionarios (Patricia Bullrich y Juan Manuel Lugones en primer orden), siempre a caballo del encarcelamiento de personas y de adopción de medidas de control".
+Diego Murzi y Federico Czesli trabajaron en el informe sobre violencia en el fútbol junto a Belén Nassar, Fernando Segura Trejo, Eric Verschoor y el presidente de la ONG, Mariano Bergés. El texto en lo que se refiere al período macrista, se basa en la tesis para el doctorado de Sociología de la UBA del primero de los nombrados. Titulada "Fútbol, violencia y estado", tomará forma de libro en 2020. "Quedó la sensación de que la gestión en seguridad deportiva y seguridad en general fue exitosa porque los sentidos de la sociedad están muy ligados a lo represivo. A un gobierno de derecha como el de Macri esa política no le sentó incómoda y pudo desplegar su marketing securitario a partir de la gente que detenía", explica Murzi, quien a su vez es vice de Salvemos al Fútbol.
+Para su colega, el licenciado en Comunicación Czesli, "lo primero que deberíamos preguntarnos es por qué pese a los permanentes esfuerzos que se realizaron en los últimos 40 años, el problema de la violencia no se resuelve. El gobierno de Macri continuó con una perspectiva punitiva: más controles a través de Tribuna Segura y más prohibiciones. Se construyó a las barras bravas como representación de las mafias a combatir y se realizaron detenciones que no en todos los casos tuvieron motivaciones claras. Tampoco fue clara la aplicación del derecho de admisión ni el protocolo para salir de él".
+Un dato del gobierno que concluyó el 10 de diciembre es que en su ministerio fetiche, el que controló con mano dura Patricia Bullrich, se subejecutó el presupuesto del área en los últimos dos años. Tal vez eso explique lo que Murzi marcó como una carencia del macrismo: "no hubo ningún tipo de política preventiva en términos culturales, no les importó ni el machismo, ni la homofobia ni la discriminación, ni se trabajó mucho con los clubes".
+República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
+
+--------------------------------------
+MEDIUM
+Pagina12 RSS
 --------------------------------------
 
 --------------------------------------
@@ -222,27 +311,25 @@ TREND
 Copa Argentina
 ----------------------------------------------------------------------------
 TITLE
-River Plate es el campeón de la Copa Argentina 2019 
+Los avasallantes números de River en la Copa Argentina y todo lo que ganó con el título
 --------------------------------------
 BODY
-El sorprendente Central Córdoba de Santiago del Estero no pudo con este River de Marcelo Gallardo, que lo venció 3-0 en el estadio Malvinas Argentinas de Mendoza, se consagró campeón de la Copa Argentina y obtuvo su pasaje directo a la edición 2020 de la Copa Libertadores. Ignacio Scocco en la primera etapa, Ignacio Fernández -la figura de la cancha- y el ingresado Julián Alvarez en el complemento, los goles millonarios. Este nuevo éxito del club de Núñez permitió que Atlético Tucumán también rubricara su clasificación al máximo torneo continental, en tanto Argentinos Juniors participará de la Sudamericana venidera.
-De entrada, Central Córdoba se paró con cinco defensores y le cedió la pelota a River. Así y todo, tras un lateral en ataque para los santiagueños y un rechazo de la defensa riverplatense, Nani fue el primero en disparar al arco a los 4 minutos, aunque Armani contuvo sin problemas.
-Pese a la buena prestación de Nacho Fernández, ya recuperado de su lesión, el conjunto de Gallardo no encontraba espacios en el cerrado esquema del rival y tuvo su primera llegada clara tras un corner y un cabezazo de Pinola, que le había ganado la posición a Nani, que se fue muy arriba. Enseguida, Scocco acechó con peligro el arco defendido por el Ruso Rodríguez.
-Poco después, un bombazo desde fuera del área de Núñez hizo volar a Armani, que con una mano la mandó al corner de forma magnífica. Poco después, Borré se la bajó a Nacho Scocco, su remate fue tapado por un defensor y de rebote Palacios la mandó muy arriba.
-En la réplica, una corajeada de Herrera terminó con un zurdazo y un nuevo lucimiento del también arquero del seleccionado argentino.
-Cerca de la media hora sobrevino una jugada polémica cuando, tras un doble enganche, Herrera cayó dentro del área tocado por Pinola, aunque el árbitro Tello no lo consideró penal.
-De inmediato, Nacho Scocco abrió la cuenta tras una gran media vuelta y luego de que Rodríguez diera rebote. Hasta ahí y con poco, el Ciruja había puesto en aprietos al siempre seguro Armani; pero el que facturó fue el Millonario, que de este modo comenzó a ser más preciso y a jugar más suelto.
-De vuelta del descanso, Central Córdoba abrió un poco más sus líneas en procura de igualar el trámite, lo que facilitó el trabajo de los mediocampistas, que con el tridente De la Cruz-Palacios-Fernández comenzó a fabricar mejores opciones para sus delanteros. Y si a River le dan espacios...
-Como el gran gasto lo había hecho en los primeros 45 minutos, el Ciruja lució algo cansado en el complemento y la presión sobre el rival ya no era tan asfixiante. Para colmo, una incursión en ataque del lateral Montiel terminó con un centro milimétrico a la cabeza de Scocco, quien la mandó muy cerca del poste derecho.
-Hasta que primero Fernández y luego Alvarez sentenciaron el pleito en cuatro minutos, le dieron a River un nuevo título en la era Gallardo y, a tres semanas de la frustrante excursión por Lima, el pasaje a una nueva ilusión: la Copa Libertadores 2020.
-3 RIVER PLATE: Armani; Montiel, Martínez Quarta, Pinola, Casco; E. Pérez, E. Palacios, De la Cruz; I. Fernández;  Scocco, Borré. DT: Marcelo Gallardo.0 CENTRAL CORDOBA (SdE): D. Rodríguez; Quilez, Salomón, Vera Oviedo, Nani, Bay; Alzugaray, Vega, Meli, G. Núnez; J. Herrera. DT: Gustavo Coleoni.Estadio: Malvinas Argentinas (Mendoza). Arbitro: Facundo Tello.
-Goles: 30m Scocco (R); 67m I. Fernández (R), 71m J. Alvarez (R).
-Cambios: 46m J. Rodríguez por G. Núñez (CC), 65m J. Alvarez por Borré (R), 54m F. Cristaldo por Quilez (CC), 75m Miracco por Alzugaray (CC), 76m Ponzio por E. Pérez (R), 79m Pratto por E. Palacios (R).
-República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
+MENDOZA.- Los éxitos deportivos tienen diferentes sabores. Hay contextos, pasados recientes, rivalidades y presiones que hacen vivir de formas muy variadas los títulos conquistados. Por eso, anoche River festejó su tercera Copa Argentina con una mezcla de sensaciones: hubo mucha alegría y felicidad entre los 30 mil hinchas presentes en el Estadio Islas Malvinas, pero también fue un gran desahogo que permite mirar el futuro con mayor tranquilidad.
+Ya no hay lugar a dudas: el poderío que River logró construir en la Copa Argentina es tan sorprendente como contundente. Ningún otro equipo pudo competir a tan alto nivel en un torneo que suele ofrecer constantes sorpresas. Las diferencias de categorías muchas veces no terminan siendo decisivas en el resultado final y los grandes batacazos ya son moneda corriente.
+Pero el equipo de Marcelo Gallardo consiguió una estirpe copera que le brinda confianza, determinación y seguridad para afrontar las series mano a mano. Así, durante el ciclo del Muñeco, el Millonario logró superar 25 de las 28 definiciones directas que disputó en el torneo desde 2014. Además, solo perdió un partido en los 90 minutos: Rosario Central lo derrotó 2-0 en los 16vos de final de la edición de 2015.
+De esta manera, River acumula 23 partidos sin perder en la Copa Argentina, con 21 triunfos y dos empates en las últimas cuatro ediciones. En tanto, lleva 63 goles a favor y 12 en contra, logrando mantener en 14 oportunidades la valla invicta. Durante este lapso, siempre que jugó marcó goles, únicamente en tres partidos convirtió solo un tanto, en 16 de los 23 encuentros se impuso por más de un gol de diferencia y en 13 de ellos marcó tres o más goles, tal como ocurrió anoche en Mendoza.
+Si se cuentan todas las ediciones que disputó desde que el torneo volvió a jugarse en 2011/2012, los números también siguen siendo positivos: ganó 26 partidos, empató 6 y perdió únicamente en dos oportunidades. Además de la caída con el Canalla en 2015, también le ganó Estudiantes de Buenos Aires por 1-0 en los 16vos de final, en la única vez que perdió con equipos del ascenso. ¿Las otras eliminaciones? Todas por penales: con Racing (0-0 y 4-5) en semifinales de 2012, con Rosario Central (0-0 y 4-5) en cuartos de final de 2014 y con Gimnasia La Plata en semifinales de 2018 (2-2 y 4-5).
+Por otro lado, con el título, el Millonario logró el ansiado boleto a la etapa de grupos de la Copa Libertadores 2020 y se evitó jugar la fase inicial (había clasificado por ser cuarto en la Superliga 2018/19) que implicaba tener que disputar cuatro partidos en febrero, complicando así el calendario para pelear la Superliga actual. Como si fuese poco, ahora también jugará la Supercopa Argentina ante Racing. El duelo se jugaría en marzo y será la posibilidad de conquistar una nueva corona.
+También es una inyección económica, ya que acumuló 14.400.000 de pesos (ayer ganó 5.900.000) por superar todas las etapas del torneo y además se aseguró los tres millones de dólares por jugar los grupos de la Libertadores. Un éxito desde todo punto de vista que también le permitió alcanzar a Boca, su máximo rival, como máximo campeón con tres coronas.
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Miembro de GDA. Grupo de Diarios América
+Copyright 2019 SA LA NACION | Todos los derechos reservados
+Protegido por reCAPTCHA:
+Descargá la aplicación de LA NACION. Es rápida y liviana.
 
 --------------------------------------
 MEDIUM
-Pagina12 RSS
+La Nacion
 --------------------------------------
 
 --------------------------------------
@@ -256,6 +343,30 @@ Copa Libertadores 2020
 Copa Sudamericana 2020
 De todas maneras, Argentinos no tendrá ventajas comparativas por ser "Argentina 1". Todos los equipos arrancan en fase única.
 La bienvenida de la Copa Sudamericana a Argentinos Juniors
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Miembro de GDA. Grupo de Diarios América
+Copyright 2019 SA LA NACION | Todos los derechos reservados
+Protegido por reCAPTCHA:
+Descargá la aplicación de LA NACION. Es rápida y liviana.
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TREND
+Real Sociedad
+----------------------------------------------------------------------------
+TITLE
+Real Sociedad-Barcelona, Liga de España: el equipo de Messi igualó y pierde terreno antes del clásico
+--------------------------------------
+BODY
+Antes del clásico del miércoles ante Real Madrid, Barcelona igualó 2 a 2 con Real Sociedad, en un partido correspondiente a la fecha 17 de la Liga de España. Fue un encuentro en el que Lionel Messi no apareció en su mayor dimensión y por momentos apareció desconectado del circuito ofensivo, más allá de que le facilitó el segundo tanto a Luis Suárez.
+El primer gol -de penal- fue convertido por Mikel Oyarzábal, a los 12 minutos del primer tiempo, tras una falta de Lenglet. Pero el conjunto catalán reaccionó con una gran definición del francés Antoine Griezmann, a los 38. Y ya a los cinco minutos del segundo tiempo, una asistencia de Messi al uruguayo Suárez le daba el triunfo parcial al equipo de Ernesto Valverde.
+Sin embargo, Real Sociedad no se amilanó ante la arremetida de Barcelona e igualó con un tanto de Alexander Isak a los 17, después de que el arquero Ter Stegen no pudo despejar dentro de su área en una llegada a fondo del local.
+Los últimos diez minutos fueron vibrantes, con los dos equipos buscando el gol a fondo y sufriendo en los contraataques. Nadie se guardó nada, pero tampoco hubo precisión para dar el pase definitivo en las dos áreas en situaciones de superioridad y el partido terminó 2-2. Pero justo antes del cierre, la polémica: Gerard Piqué reclamó un penal por un supuesto agarrón dentro del área de Real Sociedad.
+Barcelona quedó como único puntero, con 35 unidades, pero Real Madrid marcha como escolta con 34 y este domingo se enfrenta a Valencia, como local.
 Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
 Miembro de GDA. Grupo de Diarios América
 Copyright 2019 SA LA NACION | Todos los derechos reservados
@@ -271,6 +382,58 @@ La Nacion
 TREND
 retenciones
 ----------------------------------------------------------------------------
+TITLE
+Cafiero, sobre la suba de retenciones: “Estamos buscando actualizar valores que quedaron muy desactualizados”
+--------------------------------------
+BODY
+¿Ya sos suscriptor digital? Ingresá
+Valorás el periodismo confiable. Te queremos en LA NACION.
+Durante 3 meses, luego $260/mes
+Durante 4 meses, luego $260/mes
+Durante 3 meses, luego $390/mes
+Durante 4 meses, luego $390/mes
+No hace falta que compres
+Ingresá los datos de tu credencial y continuá SIN CARGO
+No hace falta que compres
+Ingresá los datos de tu credencial y continuá SIN CARGO
+Es la opción que te ofrece LA NACION para leer sin límites el diario y las revistas digitales: OHLALA!, ¡HOLA!, ROLLINGSTONE, LUGARES, LIVING, BRANDO y JARDIN. Además, tenés acceso a la réplica digital de la edición impresa del diario y las revistas. Y según la suscripción que elijas, podés disfrutar de los beneficios de Club LA NACION.
+Sin suscripción podés leer hasta 15 notas de LA NACION o revistas en un rango de 30 días. A partir de la nota 16 te pedimos que te suscribas para seguir leyendo de manera ilimitada. Para usar tu suscripción tenés que ingresar con tu cuenta de Acceso Digital.
+Si. Podés seguir accediendo a la página principal de LA NACION, de las secciones y revistas, y a toda la información de servicios.
+Podés pagar con tarjeta de crédito a través del débito automático.
+¿Dudas? Consultá las Preguntas Frecuentes
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TITLE
+Suba de retenciones. La Mesa de Enlace se reúne de urgencia y los productores quieren movilizarse
+--------------------------------------
+BODY
+¿Ya sos suscriptor digital? Ingresá
+Valorás el periodismo confiable. Te queremos en LA NACION.
+Durante 3 meses, luego $260/mes
+Durante 4 meses, luego $260/mes
+Durante 3 meses, luego $390/mes
+Durante 4 meses, luego $390/mes
+No hace falta que compres
+Ingresá los datos de tu credencial y continuá SIN CARGO
+No hace falta que compres
+Ingresá los datos de tu credencial y continuá SIN CARGO
+Es la opción que te ofrece LA NACION para leer sin límites el diario y las revistas digitales: OHLALA!, ¡HOLA!, ROLLINGSTONE, LUGARES, LIVING, BRANDO y JARDIN. Además, tenés acceso a la réplica digital de la edición impresa del diario y las revistas. Y según la suscripción que elijas, podés disfrutar de los beneficios de Club LA NACION.
+Sin suscripción podés leer hasta 15 notas de LA NACION o revistas en un rango de 30 días. A partir de la nota 16 te pedimos que te suscribas para seguir leyendo de manera ilimitada. Para usar tu suscripción tenés que ingresar con tu cuenta de Acceso Digital.
+Si. Podés seguir accediendo a la página principal de LA NACION, de las secciones y revistas, y a toda la información de servicios.
+Podés pagar con tarjeta de crédito a través del débito automático.
+¿Dudas? Consultá las Preguntas Frecuentes
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
 TITLE
 El Gobierno modificó el esquema de retenciones agropecuarias
 --------------------------------------
@@ -291,106 +454,36 @@ Pagina12 RSS
 
 --------------------------------------
 TITLE
-El Gobierno cambió el esquema de retenciones y decidió aumentarlas
+A favor de las retenciones segmentadas
 --------------------------------------
 BODY
-El Gobierno decidió hoy cerrar el registro para declarar las exportaciones de granos y subproductos y aumentar las retenciones.
-En una resolución publicada este sábado en el Boletín Oficial, que lleva el número 196, el ministro de Agricultura Luis Basterra suspendió para el próximo lunes cualquier registro de venta al exterior.
-Por otra parte, con el decreto 37, firmado por el presidente Alberto Fernández; el jefe de Gabinete, Santiago Cafiero; el ministro de Economía, Martín Guzmán, y Basterra, se dejó sin efecto el esquema de retenciones de 4 pesos por dólar exportado. Al eliminarse el tope de $4 por dólar queda, no obstante, un 12% de retenciones.
-La soja, por ejemplo, ya tenía un 18% fijo y pagaba 4 pesos por dólar. Sube con la modificación a una tasa total del 30%. Trigo, maíz y otros productos, que pagaban solo $4 por dólar, quedan con un 12%. En tanto, carnes, leche en polvo, harinas y legumbres tendrán un 9% fijo.
-Cuando el gobierno anterior puso en septiembre de 2018 las retenciones de $4 por dólar, con un valor de la divisa norteamericana a $38 equivalían a 10%. Hoy con la suba del dólar representan en torno de un 5%.
-"Esto no va a caer bien en el sector, no va a gustar", dijo Matías De Velazco, presidente de la Confederación de Asociaciones Rurales de Buenos Aires y La Pampa ( Carbap).
-Carlos Iannizzotto, presidente de Coninagro, señaló que el presidente Alberto Fernández "comienza a faltar a su palabra" porque "dijo que no iba hacer cosas sin consultas". "Esperábamos un anuncio a favor de la producción, alentándola", señaló.
-"Cuando [Alberto Fernández] era candidato dijo que nos iba a consultar, y eso no ha sucedido. Con el ministro [ Luis Basterra] nos juntamos el jueves y no nos comentó nada", señaló en la misma línea, Daniel Pelegrina, presidente de la Sociedad Rural Argentina, a Radio Mitre.
-Jorge Chemes, presidente de Confederaciones Rurales Argentinas (CRA), indicó que la Mesa de Enlace tendrá una reunión "urgente".
-"El diálogo es la principal herramienta y es fundamental que nos escuchen. Creo que ya lo tenían decidido para salir con un efecto sorpresa. El impacto en la rentabilidad va a ser fuerte", señaló a radio Continental. Luego agregó: "Nos vamos a reunir urgente".
-Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
-Miembro de GDA. Grupo de Diarios América
-Copyright 2019 SA LA NACION | Todos los derechos reservados
-Protegido por reCAPTCHA:
-Descargá la aplicación de LA NACION. Es rápida y liviana.
+Pedro Peretti, miembro de Movimiento Arraigo y coautor de La Argentina agropecuaria y Lawfare: guerra judicial-mediática, se manifestó a favor de la modificación en el esquema de retenciones agropecuarias , aunque planteó que "no se puede poner en la misma balanza al pequeño y al gran productor".
+Para Peretti, quIen fue director de la Federación Agraria Argentina (FAA) y continúa como socio en la entidad, la modificación representa "un ingreso adicional importante para el fisco", que permitirá "financiar las urgentes y necesarias medidas para paliar la crisis que sufren gran cantidad de compatriotas en este momento".
+No obstante, opinó que "el Gobierno debería tener un gesto adicional, porque en su opinión "ha sido benévolo con los grandes productores", cuando debería serlo "con los pequeños, que no la han pasado bien durante los cuatro años de macrismo".
+"A los pequeños productores de la pampa húmeda les fue mucho mejor con Cristina (Kirchner) que con Mauricio Macri. No se puede poner en la misma balanza al pequeño y al gran productor. Fue un error que cometimos en 2008 y espero que no volvamos a cometerlo ahora. Si ponemos todo en la misma bolsa vamos a tener resultados parecidos", analizó el dirigente. "El problema central es que la derecho transformó las cuestiones de retenciones en un problema ideológico y no en lo que son un instrumento de política económica", concluyó.
+Peretti valoró el acuerdo que hizo Axel Kicillof en 2015 con la Federación Agraria, que implicó una devolución de 3 mil millones de pesos a 21 mil pequeños y medianos productores y tamberos. "Ese es el camino que hay que transitar", aseguró.
+República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
 
 --------------------------------------
 MEDIUM
-La Nacion
+Pagina12 RSS
 --------------------------------------
 
 --------------------------------------
 TITLE
-Soja, trigo y maíz. Revelan que el campo perderá plata con más retenciones a los principales cultivos
+Las entidades rurales se quejaron de los cambios en retenciones
 --------------------------------------
 BODY
-La soja, el maíz y el trigo, los tres principales cultivos que tiene la Argentina para exportar al mundo, pasarían a generar pérdidas a los productores si el Gobierno de Alberto Fernández sube las retenciones a más del 30% en el primer producto y por encima del 11% en los últimos dos cereales.
-Estos datos se desprenden de un informe que hizo la consultora AZ Group con valores actuales, rindes promedio a nivel nacional de las últimas cinco campañas agrícolas y rendimientos de diferencia (sin incluir impuestos), esto es cuántos kilos se deben obtener a campo para cubrir los costos clave de la producción.
-La soja hoy tributa un 18% de retenciones fijas y 4 pesos por dólar exportado. En total, hoy la alícuota efectiva es del 25%. En tanto, el maíz y el trigo pagan 4 pesos por dólar exportado que equivalen a una tasa ahora en torno del 7%.
-"En soja, con retenciones por encima del 30% no se llega a cubrir los costos. En maíz, con derechos de exportación superiores a 11%, cuatro puntos porcentuales mayores que los actuales, con rindes promedio tampoco se logran cubrir los costos. En el caso de trigo, con derechos de exportación superiores a 11% tampoco se alcanzan a cubrir los costos con el rinde promedio de la Argentina", remarca la consultora.
-En soja, el rinde promedio nacional de los últimos cinco ciclos productivos es de 3 toneladas por hectárea. Con una retención del 25%, hoy en campo alquilado el rinde de indiferencia es de 2,81 toneladas por hectárea, lo necesario para que se cubran los costos directos e indirectos, sin incluir impuestos.
-Cuando se pasa a una retención del 30% la ecuación queda casi empatada, ya que se requiere como rinde de indiferencia 2,98 toneladas por hectárea para pagar los costos, sin descontar impuestos.
-Por otra parte, con un derecho del 35 por ciento habría que sacar al menos 3,18 toneladas por hectárea. Vale recordar que el rinde promedio nacional de las últimas cinco campañas fue de 3 toneladas.
-Respecto del maíz, el rinde promedio de las últimas cinco campañas se ubicó en 7,3 toneladas por hectárea. Con retenciones que trepen al 12% ya habría que obtener 7,4 toneladas para no perder plata y si volvieran a una tasa del 20%, como ocurrió durante el kirchnersimo, en este caso se tendrían que lograr 8,5 toneladas.
-En la zona agrícola núcleo estos rindes pueden ser, si el clima acompaña, más fácil de lograr, pero es complicado en las regiones alejadas de los puertos donde también influyen los altos costos de los fletes.
-En cuanto al trigo, su rinde promedio nacional dio 3,07 toneladas por hectárea en las últimas cinco campañas. Con un derecho de exportación de 15% se tendrían que conseguir 3,22 toneladas por hectárea para no perder plata con el cultivo y luego 3,66 toneladas por hectárea si la retención se ubicara en el 23%, tasa que hubo con Cristina Kirchner.
-"El principal efecto de esta realidad es que se concentraría la superficie de cada cultivo en las zonas donde se ve favorecido, ya sea por características geográficas o agroambientales. Por ejemplo, al aumentar las retenciones en el cultivo de maíz es muy probable que en futuras campañas disminuya la superficie en aquellas zonas alejadas de los puertos", señala el trabajo de la consultora.
-"En el caso del trigo, se puede esperar que en zonas donde el potencial de rendimiento no alcance los rindes de indiferencia, se remplace por cultivos de servicio (para tener cubierto el suelo) o simplemente se siembre un cultivo de grano grueso. Así, se concentraría la mayor producción en la zona triguera y disminuiría la inversión por hectárea sembrada", agrega.
-El campo hoy en más del 80% del área agrícola está afrontando una falta de humedad que genera incertidumbre sobre la finalización de la siembra de soja y maíz y la producción de la nueva cosecha.
-Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
-Miembro de GDA. Grupo de Diarios América
-Copyright 2019 SA LA NACION | Todos los derechos reservados
-Protegido por reCAPTCHA:
-Descargá la aplicación de LA NACION. Es rápida y liviana.
-
---------------------------------------
-MEDIUM
-La Nacion
---------------------------------------
-
---------------------------------------
-TITLE
-Daniel Pelegrina, sobre el aumento de retenciones: "Alberto Fernández dijo que nos iba a consultar y eso no pasó"
---------------------------------------
-BODY
-¿Ya sos suscriptor digital? Ingresá
-Valorás el periodismo confiable. Te queremos en LA NACION.
-Durante 3 meses, luego $260/mes
-Durante 4 meses, luego $260/mes
-Durante 3 meses, luego $390/mes
-Durante 4 meses, luego $390/mes
-No hace falta que compres
-Ingresá los datos de tu credencial y continuá SIN CARGO
-No hace falta que compres
-Ingresá los datos de tu credencial y continuá SIN CARGO
-Es la opción que te ofrece LA NACION para leer sin límites el diario y las revistas digitales: OHLALA!, ¡HOLA!, ROLLINGSTONE, LUGARES, LIVING, BRANDO y JARDIN. Además, tenés acceso a la réplica digital de la edición impresa del diario y las revistas. Y según la suscripción que elijas, podés disfrutar de los beneficios de Club LA NACION.
-Sin suscripción podés leer hasta 15 notas de LA NACION o revistas en un rango de 30 días. A partir de la nota 16 te pedimos que te suscribas para seguir leyendo de manera ilimitada. Para usar tu suscripción tenés que ingresar con tu cuenta de Acceso Digital.
-Si. Podés seguir accediendo a la página principal de LA NACION, de las secciones y revistas, y a toda la información de servicios.
-Podés pagar con tarjeta de crédito a través del débito automático.
-¿Dudas? Consultá las Preguntas Frecuentes
-
---------------------------------------
-MEDIUM
-La Nacion
---------------------------------------
-
---------------------------------------
-TREND
-River Plate
-----------------------------------------------------------------------------
-TITLE
-River Plate es el campeón de la Copa Argentina 2019 
---------------------------------------
-BODY
-El sorprendente Central Córdoba de Santiago del Estero no pudo con este River de Marcelo Gallardo, que lo venció 3-0 en el estadio Malvinas Argentinas de Mendoza, se consagró campeón de la Copa Argentina y obtuvo su pasaje directo a la edición 2020 de la Copa Libertadores. Ignacio Scocco en la primera etapa, Ignacio Fernández -la figura de la cancha- y el ingresado Julián Alvarez en el complemento, los goles millonarios. Este nuevo éxito del club de Núñez permitió que Atlético Tucumán también rubricara su clasificación al máximo torneo continental, en tanto Argentinos Juniors participará de la Sudamericana venidera.
-De entrada, Central Córdoba se paró con cinco defensores y le cedió la pelota a River. Así y todo, tras un lateral en ataque para los santiagueños y un rechazo de la defensa riverplatense, Nani fue el primero en disparar al arco a los 4 minutos, aunque Armani contuvo sin problemas.
-Pese a la buena prestación de Nacho Fernández, ya recuperado de su lesión, el conjunto de Gallardo no encontraba espacios en el cerrado esquema del rival y tuvo su primera llegada clara tras un corner y un cabezazo de Pinola, que le había ganado la posición a Nani, que se fue muy arriba. Enseguida, Scocco acechó con peligro el arco defendido por el Ruso Rodríguez.
-Poco después, un bombazo desde fuera del área de Núñez hizo volar a Armani, que con una mano la mandó al corner de forma magnífica. Poco después, Borré se la bajó a Nacho Scocco, su remate fue tapado por un defensor y de rebote Palacios la mandó muy arriba.
-En la réplica, una corajeada de Herrera terminó con un zurdazo y un nuevo lucimiento del también arquero del seleccionado argentino.
-Cerca de la media hora sobrevino una jugada polémica cuando, tras un doble enganche, Herrera cayó dentro del área tocado por Pinola, aunque el árbitro Tello no lo consideró penal.
-De inmediato, Nacho Scocco abrió la cuenta tras una gran media vuelta y luego de que Rodríguez diera rebote. Hasta ahí y con poco, el Ciruja había puesto en aprietos al siempre seguro Armani; pero el que facturó fue el Millonario, que de este modo comenzó a ser más preciso y a jugar más suelto.
-De vuelta del descanso, Central Córdoba abrió un poco más sus líneas en procura de igualar el trámite, lo que facilitó el trabajo de los mediocampistas, que con el tridente De la Cruz-Palacios-Fernández comenzó a fabricar mejores opciones para sus delanteros. Y si a River le dan espacios...
-Como el gran gasto lo había hecho en los primeros 45 minutos, el Ciruja lució algo cansado en el complemento y la presión sobre el rival ya no era tan asfixiante. Para colmo, una incursión en ataque del lateral Montiel terminó con un centro milimétrico a la cabeza de Scocco, quien la mandó muy cerca del poste derecho.
-Hasta que primero Fernández y luego Alvarez sentenciaron el pleito en cuatro minutos, le dieron a River un nuevo título en la era Gallardo y, a tres semanas de la frustrante excursión por Lima, el pasaje a una nueva ilusión: la Copa Libertadores 2020.
-3 RIVER PLATE: Armani; Montiel, Martínez Quarta, Pinola, Casco; E. Pérez, E. Palacios, De la Cruz; I. Fernández;  Scocco, Borré. DT: Marcelo Gallardo.0 CENTRAL CORDOBA (SdE): D. Rodríguez; Quilez, Salomón, Vera Oviedo, Nani, Bay; Alzugaray, Vega, Meli, G. Núnez; J. Herrera. DT: Gustavo Coleoni.Estadio: Malvinas Argentinas (Mendoza). Arbitro: Facundo Tello.
-Goles: 30m Scocco (R); 67m I. Fernández (R), 71m J. Alvarez (R).
-Cambios: 46m J. Rodríguez por G. Núñez (CC), 65m J. Alvarez por Borré (R), 54m F. Cristaldo por Quilez (CC), 75m Miracco por Alzugaray (CC), 76m Ponzio por E. Pérez (R), 79m Pratto por E. Palacios (R).
+Las principales entidades rurales mostraron su desacuerdo ante la actualización de retenciones que anunció el Gobierno. Sus dirigentes criticaron la tasa fija del 9 por ciento y el cierre del registro de importaciones , que se publicaron este sábado en el Boletín Oficial.
+Daniel Pelegrina, presidente de la Sociedad Rural, manifestó que las entidades tienen que ver "el impacto" de la medida y se quejó de no haber sido consultado. “Hemos estado con el ministro y no comentó nada de esto”, afirmó en relación a Luis Basterra. “Es una medida aislada y todavía no conocemos nada del paquete económico completo. Hay una cantidad de gastos improductivos que hay que revisar antes", agregó.
+Otra voz que se alzó fue la de Matías De Velazco, titular de la Confederación de Asociaciones Rurales de Buenos Aires y La Pampa (Carbap), para quien la modificación en retenciones “no tiene un final feliz”. En declaraciones televisivas, enfatizó: “El Estado tiene que ser más eficiente y gastar menos. Nos gustaría que el Gobierno haga su ajuste y siempre el ajuste se le pide al sector productivo”.
+Por su parte, Jorge Chemes, titular de Confederaciones Rurales Argentinas (CRA), estimó que al campo “se lo sigue viendo como una fuente de recursos fiscales y no se toma conciencia del lugar que ocupa en el país”. Afirmó no haber tenido “ningún contacto” con Basterra y opinó que “nos tendría que recibir el Gobierno para intercambiar ideas de cómo se sigue para adelante".
+Eduardo Buzzi, el titular de la Federación Agraria Argentina durante el conflicto de 2008, estimó que “no ha habido una sola reunión formal y ya han arrancado informando cosas por el Boletín Oficial" al tiempo que afirmó que "esto roza el autoritarismo" y llamó a “no volver a cometer los errores de 2008”. Anticipó un escenario de posible conflictividad: “Si vuelven a hacer un mecanismo confiscatorio y autoritario, después que no se quejen si los productores reaccionan”.
+Por AM 750, Carlos Achetoni, presidente de la Federación Agraria Argentina, afirmó respecto del anuncio:  “Contrasta de manera negativa con lo que habíamos hablado, que íbamos a saber de primera mano las medidas para nuestro sector". En el programa Toma y Daca dijo que “no hay diferenciación entre el que tiene 50 hectáreas y el que tiene 50 mil” ni se consideran las distancias respecto del puerto. “Las bases están bastante intrigadas y movilizadas por este tema”, aseguró. Respecto de un futuro inmediato con protestas como la de 2008, dijo que “era impensado llegar a un punto de crispación; no sé dónde terminará esto, pero arrancaron mal, pésimo”.
+Por su parte Pedro Peretti, integrante del Movimiento Arraigo, destacó que, aunque "siempre estuvo a favor de las retenciones", el Gobierno debería ser un poco más benévolo con los pequeños productorres y segmentar las retenciones.
+Mientras, en declaraciones radiales, Carlos Iannizzotto, presidente de Coninagro habló de “noticias poco halagueñas por el contenido y las formas”. En declaraciones a FM Milenium dijo que “ojalá que esto venga con otras medidas financieras y tributarias, para saber adónde vamos, si no es más de lo mismo”. Añadió: “El doctor Fernández nos dijo que estas cosas las íbamos a conversar; cuando uno conversa es diferente a que uno aplique una medida impositiva sin tener en cuenta otros factores para encontrar razonabilidad”.
+Finalmente, también opinó del cambio de régimen el exministro de Agricultura de Mauricio Macri, Ricardo Buryaile, en cuya gestión se quitaron las retenciones en todos los productos salvo en la soja, que ahora llega al 27 por ciento. “Me llama la atención que no hayan ido al tope del 30 por ciento”, afirmó en FM Cultura. Señaló que le genera "dudas el decreto” y que le da "la impresión de que pueden venir otras subas”.
+A su vez, Buryaile, diputado por la UCR, criticó la doble indemnización por 180 días. “Quiero saber dónde está escrito que la doble indemnización genera más empleo”, dijo al tiempo que mostró su oposición a la Ley de Emergencia Económica. “Con medidas como ésta se resiente la generación de empleo. Incluso a nivel rural se legisla sin saber qué pasa en el territorio, creyendo que hay wi-fi en todos los campos”. El diputado llegó a afirmar que “todo esto confluye en el trabajo informal” y que “subsiste el temor de perder planes sociales por un trabajo registrado”. 
 República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
 
 --------------------------------------

@@ -38,6 +38,7 @@ class CleanNewsEngineTest {
 
         IMediumScrapperFactory mediumScrapperFactory = new RSSMediumScrapperFactory(webClient);
         mediumScrappers.add(mediumScrapperFactory.getPagina12Scrapper());
+        mediumScrappers.add(mediumScrapperFactory.getLaNacionScrapper());
 
         CleanNewsEngine cleanNewsEngine = new CleanNewsEngine(mediumScrappers, trendScrappers);
         cleanNewsEngine.run();

@@ -21,4 +21,9 @@ public class BasicMediumScrapperFactory extends AbstractMediumScrapperFactory {
     public IMediumScrapper getPagina12Scrapper() {
         return new implementations.scrappers.medium.MediumScrapper(this.webClient, new Medium("Pagina12", "https://www.pagina12.com.ar/", "//article"), new BasicTitleScrapper(this.webClient), new BasicAbstractArticleScrapper(this.webClient));
     }
+
+    @Override
+    public IMediumScrapper getLaNacionScrapper() {
+        return null;
+    }
 }

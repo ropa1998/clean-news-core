@@ -27,8 +27,11 @@ class IMediumScrapperFactoryTest {
     @Test
     public void RSSMediumScrapperFactoryWorks() {
         IMediumScrapperFactory mediumScrapperFactory = new RSSMediumScrapperFactory(webClient);
-        IMediumScrapper mediumScrapper = mediumScrapperFactory.getPagina12Scrapper();
-        mediumScrapper.run();
-        assertTrue(!mediumScrapper.getArticles().isEmpty());
+        IMediumScrapper pagina12Scrapper = mediumScrapperFactory.getPagina12Scrapper();
+        pagina12Scrapper.run();
+        assertTrue(!pagina12Scrapper.getArticles().isEmpty());
+        IMediumScrapper laNacionScrapper = mediumScrapperFactory.getLaNacionScrapper();
+        laNacionScrapper.run();
+        assertTrue(!laNacionScrapper.getArticles().isEmpty());
     }
 }

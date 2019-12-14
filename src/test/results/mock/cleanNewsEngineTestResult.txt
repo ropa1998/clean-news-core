@@ -1,24 +1,111 @@
 ///////////////////////////////////////////////////////////////////
 BEGINNING OF FILE
-DATE: 2019-12-13T14:33:15.903498
+DATE: 2019-12-14T12:01:01.591606
 ///////////////////////////////////////////////////////////////////
 --------------------------------------
 TREND
-Fabián Borro
+De Vido
 ----------------------------------------------------------------------------
 TITLE
-Fabián Borro, el dirigente que le torció el brazo a la Generación Dorada
+De Vido y Baratta salieron de la cárcel 
 --------------------------------------
 BODY
-Resulta difícil entender por fuera del ambiente del básquetbol que Federico Susbielles no vaya a ser reelecto como titular de la Confederación Argentina (CABB). Desde que se hizo cargo del organismo en 2014, primero como interventor y luego como presidente, al dirigente bahiense se le reconoció haber sido fundamental para reordenar las finanzas de la entidad después del desfalco de la administración anterior, la gestión deportiva se coronó con un subcampeonato mundial y contó -y cuenta- con el apoyo de estrellas históricas como Luis Scola, Emanuel Ginóbili, y Andrés Nocioni, los entrenadores Sergio Hernández y Silvio Santander y las nuevas figuras como Facundo Campazzo y Nicolás Laprovittola, dentro de una larga lista de nombres notables.
-El responsable del impacto se llama Fabián Borro, candidato de la lista "CABB entre Todos", que a los 58 años y con una amplia experiencia en el ámbito sindical, llegará al cargo con el antecedente de ser el presidente de Obras Sanitarias, de la Federación Metropolitana (Febamba) y la Asociación de Clubes (AdC), la entidad que organiza la Liga Nacional y la Liga Argentina (ex TNA, la primera categoría de ascenso). Para acceder a la presidencia de la CABB, ni siquiera necesitó refrendar su poder en la votación de la asamblea prevista para el 19 de diciembre, ya que la lista "Federales Unidos por el Básquetbol", que proponía la continuidad de Susbielles, bajó la candidatura el jueves ya que no contaba con los 21 delegados necesarios para avalar su postulación. 
-Director de apoyo logístico de AySA, Borro es un dirigente de larguísima trayectoria en el mundo del básquetbol, tanto que era uno de los vicepresidentes de la CABB cuando el ahora procesado por administración infiel Germán Vaccaro era la máxima autoridad. Incluso, era el hombre fuerte de la trunca gestión de Daniel Zanni, el presidente que duró un suspiro en 2014, cuando los jugadores de la Generación Dorada se pusieron firmes, amenazaron con no ir al Mundial de España y exigieron la salida de todas las autoridades que habían tenido que ver con la gestión de Vaccaro y pidieron a la Secretaría de Deportes la intervención del organismo a cargo de Susbielles. 
-Desde entonces viene el encono entre Borro y las estrellas de la Selección. "Están pidiendo que nos vayamos todos. Es un despropósito. ¿Con qué argumentos? ¿Porque no les gusta nuestra cara? Yo puedo entender que estén enojados con la conducción anterior, pero esta gestión lleva 16 días…", decía Borro en aquel momento, pero no pudo evitar que llegara la intervención a cargo de Susbielles, por más que prometió "pelearla hasta el final si creen que me van a echar como un perro".
-Un año después, Borro llegó a un nuevo espacio de poder, la presidencia de la Asociación de Clubes. Allí llevó adelante una gestión que intentó modernizar la competición con resultados diversos. Buscó mejorar el marketing y la difusión, propuso la televisación de todos los partidos a través del streaming, cambió la forma de competencia para que haya actividad todos los días al estilo NBA y liberó el cupo de extranjeros, para abaratar los presupuestos de los equipos. No todas las propuestas tuvieron éxito y hoy la LNB navega en un período de transición, con poco interés por parte de los aficionados y clubes atravesados por la fuerte crisis económica que afecta al país. 
-Sin embargo, desde allí Borro, que en febrero de este año había sido reelegido como presidente de la AdC hasta 2023, supo construir el poder para desbancar a Susbielles. Mientras el presidente saliente se dedicaba a fortalecer su candidatura a la intendencia de Bahía Blanca por el Frente de Todos, el nuevo mandatario buscaba el apoyo de las federaciones provinciales, las que en definitiva les iban a dar los votos necesarios para quedarse con el sillón de la calle Montevideo. Otro apoyo vital para Borro lo aporta Horacio Muratore, ex presidente de la FIBA y hombre clave a nivel internacional.
-La primer gran desafío de la nueva gestión será recuperar la confianza de los jugadores y el entrenador Hernández, que más de una vez puso en duda su continuidad si no seguía Susbielles. Lo mismo sucede con Scola, que adelantó iría a los Juegos Olímpicos pero con el bahiense en el cargo.
-En un comunicado publicado hace cinco días, la lista CABB para Todos había sido durísima con los jugadores que se pronunciaron en favor de la actual conducción. "El apoyo de algunos jugadores que viven en el extranjero al actual proceso de selección se contrasta con el estado de las federaciones y del básquet en el país. La preocupación de gente importante por intentar impedir un acto democrático y transparente es llamativa. Ojalá se hubiesen levantado voces tan prestigiosas para impedir los tarifazos sufridos por los clubes de barrio y de pueblo en estos últimos años".
-En la noche del jueves, el discurso de Borro resultó muy distinto, buscando acercarse a los basquetbolistas y evitando ese mensaje confrontativo de la semana pasada. "Los jugadores han expresado su opinión, tienen todo su derecho en hacerlo, y lo han hecho con educación, con respeto. Vamos a plantear que tiene que haber una puerta abierta de la casa del básquetbol argentino para todos los sectores", dijo Borro en TyC Sports. El dirigente dejó en claro que quiere la continuidad de Hernández y que la Selección siga con el camino trazado en la gestión que se va: "Lo que está bien en deporte no se toca. Creo que hay que seguir con este proyecto que viene del subcampeonato mundial, y tiene como objetivo ir a buscar la medalla de oro a Tokio". Resta saber si desde la otra parte piensan lo mismo.
+El exministro de Planificación Federal Julio de Vido y el exsecretario de Coordinación de esa cartera Roberto Baratta abandonaron el penal de Ezeiza esta madrugada luego de que la Cámara Federal de Casación le indicara al Tribunal Oral Federal 7 --a cargo de la causa de las fotocopias de los cuadernos-- que haga efectivas las excarcelaciones dictadas a última hora de ayer.
+El TOF 7 había rechazado la excarcelación pedida por los respectivos abogados (Maximiliano Rusconi y Gabriel Palmeiro, en el caso de De Vido, y Alejandro Rúa y Graciana Peñafort, de Baratta), pero Casación tuvo en cuenta que De Vido y Baratta llevan más de dos años de prisión y que no está fundamentado ni el peligro de fuga ni el peligro de entorpecimiento de una investigación.
+En tanto, fuentes ligadas al exministro confirmaron que "está en su casa de Zárate acompañado por su compañera Alessandra Minnicelli y su hijo" desde hoy a alrededor de las 5. Pese a haber abandonado el penal de Ezeiza, el exministro deberá cumplir con una detención domiciliaria que le fue impuesta por el TOF 1 en el marco de la causa en la que se investigan supuestos desmanejos con dinero público que debía destinarse a la mina de carbón de Río Turbio.
+En tanto, Baratta, si bien no tiene dictada la prisión domiciliaria, cumple con el requisito de una tobillera electrónica, a sólo efecto de monitoreo, y se encuentra en su domicilio del barrio porteño de Belgrano, indicaron fuentes de su defensa.
+República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
+
+--------------------------------------
+MEDIUM
+Pagina12 RSS
+--------------------------------------
+
+--------------------------------------
+TITLE
+La Justicia concedió la prisión domiciliaria a Julio De Vido y Roberto Baratta y ya están en sus casas
+--------------------------------------
+BODY
+¿Ya sos suscriptor digital? Ingresá
+Valorás el periodismo confiable. Te queremos en LA NACION.
+Durante 3 meses, luego $260/mes
+Durante 4 meses, luego $260/mes
+Durante 3 meses, luego $390/mes
+Durante 4 meses, luego $390/mes
+No hace falta que compres
+Ingresá los datos de tu credencial y continuá SIN CARGO
+No hace falta que compres
+Ingresá los datos de tu credencial y continuá SIN CARGO
+Es la opción que te ofrece LA NACION para leer sin límites el diario y las revistas digitales: OHLALA!, ¡HOLA!, ROLLINGSTONE, LUGARES, LIVING, BRANDO y JARDIN. Además, tenés acceso a la réplica digital de la edición impresa del diario y las revistas. Y según la suscripción que elijas, podés disfrutar de los beneficios de Club LA NACION.
+Sin suscripción podés leer hasta 15 notas de LA NACION o revistas en un rango de 30 días. A partir de la nota 16 te pedimos que te suscribas para seguir leyendo de manera ilimitada. Para usar tu suscripción tenés que ingresar con tu cuenta de Acceso Digital.
+Si. Podés seguir accediendo a la página principal de LA NACION, de las secciones y revistas, y a toda la información de servicios.
+Podés pagar con tarjeta de crédito a través del débito automático.
+¿Dudas? Consultá las Preguntas Frecuentes
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TREND
+El Gobierno
+----------------------------------------------------------------------------
+TITLE
+El Gobierno modificó el esquema de retenciones agropecuarias
+--------------------------------------
+BODY
+En el marco de las primeras medidas destinadas a sacar de la emergencia a los que menos tienen, el gobierno de Alberto Fernández estableció un cambio en el régimen de retenciones a las exportaciones agropecuarias. En lugar de 4 pesos por dólar exportado, a partir de ahora se pagará una tasa fija de 9%.
+La medida fue dispuesta por medio de un decreto publicado este sábado en el Boletín Oficial. Allí también se dio a conocer una resolución del Ministerio de Agricultura que va de la mano de la modificación: el cierre del registro en el que se declaran las exportaciones de granos y subproductos.
+La modificación al esquema de retenciones es parte de los primeros pasos que empieza a dar la actual gestión para atender a los sectores menos favorecidos. A última hora del viernes, Fernández también dictó un decreto de necesidad y urgencia en el que fijó por 180 días la doble indemnización para los despidos sin causa. 
+Como adelantó también en exclusiva Página/12, el presidente y sus colaboradores ultiman los detalles del proyecto de ley de Solidaridad Social y Reactivación Productiva . La iniciativa empezará a ser tratada la semana próxima en la Cámara de Diputados en el marco de las sesiones extraordinarias que convocó el Ejecutivo. Prevé aumentos en jubilaciones y AUH. Impuesto a las compras en el exterior y cambios en Bienes Personales. También contempla la modificación de la política fiscal regresiva que dejó Mauricio Macri.
+El esquema de retenciones vigente hasta hoy también era parte de la herencia macrista. El anterior presidente impuso los 4 pesos por dólar en septiembre de 2018. Entonces el billete verde cotizaba en torno a los 38 pesos, con lo cual las retenciones equivalían a un 10%. Hoy, con el dólar al doble, representan la mitad.
+El decreto fue firmado por Fernández; el jefe de Gabinete, Santiago Cafiero; el ministro de Economía, Martín Guzmán; y el ministro de Agricultura, Luis Basterra. Este último fue quien firmó la resolución que cierra el registro de exportaciones.
+Los dirigentes de las cámaras agropecuarias, atentos a las modificaciones que sabían, que venían ya habían manifestado su rechazo. Apenas conocido el cambio al esquema de retenciones empezaron a hacer oír sus críticas.
+República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
+
+--------------------------------------
+MEDIUM
+Pagina12 RSS
+--------------------------------------
+
+--------------------------------------
+TITLE
+El Gobierno cambió el esquema de retenciones y decidió aumentarlas
+--------------------------------------
+BODY
+El Gobierno decidió hoy cerrar el registro para declarar las exportaciones de granos y subproductos y aumentar las retenciones.
+En una resolución publicada este sábado en el Boletín Oficial, que lleva el número 196, el ministro de Agricultura Luis Basterra suspendió para el próximo lunes cualquier registro de venta al exterior.
+Por otra parte, con el decreto 37, firmado por el presidente Alberto Fernández; el jefe de Gabinete, Santiago Cafiero; el ministro de Economía, Martín Guzmán, y Basterra, se dejó sin efecto el esquema de retenciones de 4 pesos por dólar exportado. Al eliminarse el tope de $4 por dólar queda, no obstante, un 12% de retenciones.
+La soja, por ejemplo, ya tenía un 18% fijo y pagaba 4 pesos por dólar. Sube con la modificación a una tasa total del 30%. Trigo, maíz y otros productos, que pagaban solo $4 por dólar, quedan con un 12%. En tanto, carnes, leche en polvo, harinas y legumbres tendrán un 9% fijo.
+Cuando el gobierno anterior puso en septiembre de 2018 las retenciones de $4 por dólar, con un valor de la divisa norteamericana a $38 equivalían a 10%. Hoy con la suba del dólar representan en torno de un 5%.
+"Esto no va a caer bien en el sector, no va a gustar", dijo Matías De Velazco, presidente de la Confederación de Asociaciones Rurales de Buenos Aires y La Pampa ( Carbap).
+Carlos Iannizzotto, presidente de Coninagro, señaló que el presidente Alberto Fernández "comienza a faltar a su palabra" porque "dijo que no iba hacer cosas sin consultas". "Esperábamos un anuncio a favor de la producción, alentándola", señaló.
+"Cuando [Alberto Fernández] era candidato dijo que nos iba a consultar, y eso no ha sucedido. Con el ministro [ Luis Basterra] nos juntamos el jueves y no nos comentó nada", señaló en la misma línea, Daniel Pelegrina, presidente de la Sociedad Rural Argentina, a Radio Mitre.
+Jorge Chemes, presidente de Confederaciones Rurales Argentinas (CRA), indicó que la Mesa de Enlace tendrá una reunión "urgente".
+"El diálogo es la principal herramienta y es fundamental que nos escuchen. Creo que ya lo tenían decidido para salir con un efecto sorpresa. El impacto en la rentabilidad va a ser fuerte", señaló a radio Continental. Luego agregó: "Nos vamos a reunir urgente".
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Miembro de GDA. Grupo de Diarios América
+Copyright 2019 SA LA NACION | Todos los derechos reservados
+Protegido por reCAPTCHA:
+Descargá la aplicación de LA NACION. Es rápida y liviana.
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TREND
+Tecnópolis
+----------------------------------------------------------------------------
+TITLE
+Un San Martín destruido recibió a Tristán Bauer en Tecnópolis
+--------------------------------------
+BODY
+El flamante ministro de Cultura, Tristán Bauer, mostró en un video la “destrucción” que generó el macrismo en Tecnópolis: al visitar el parque se encontró con muñecos de San Martín, Belgrano y Zamba abandonados y destrozados. “Trato de contener el llanto y recuerdo cuando desde los canales públicos abordábamos nuestra historia. Frente a esta imagen de San Martín los niños celebraban, bailaban, jugaban. Pedían en los cumpleaños su imagen para poner en las tortas. Y ahora esta destrucción”, expresa el funcionario, que otrora estuvo al frente de Canal Encuentro y Pakapaka.
+En el video se compromete a encarar "la tarea de reconstruir”, a la vez que anuncia que dará a las autoridades de Tecnópolis "instrucciones para que pongan a San Martín de pie". El parque quedará bajo la órbita de su cartera, en lugar de la Secretaría de Medios. “Reconstruir tiene que ver con reconstruir lo simbólico”, asegura el director de Tierra arrasada. “Para nosotros la memoria es futuro”, concluye, citando a Atahualpa Yupanqui.
+En el Twitter oficial del Ministerio agregó: “Parecía el resultado de una verdadera batalla. Nuestra tarea es dejar el odio atrás para ir al amor”.
 República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
 
 --------------------------------------
@@ -28,17 +115,79 @@ Pagina12 RSS
 
 --------------------------------------
 TREND
-La DAIA
+Pala
 ----------------------------------------------------------------------------
 TITLE
-La DAIA acusó a Laura Alonso de banalizar el Holocausto
+Qué dijo el director deportivo de Leverkusen sobre la posible llegada de Exequiel Palacios
 --------------------------------------
 BODY
-La Delegación de Asociaciones Israelitas Argentinas (DAIA) acusó Laura Alonso de "banalizar la Shoá".  La ex titular de la Oficina Anticorrupción volvió a protagonizar una polémica en las redes sociales al comparar el asilo político otorgado a Evo Morales con la llegada de nazis a la Argentina. "Si alguna vez refugiaron nazis, por qué no habrían de abrazarse con dictadores y asesinos del siglo xxi?", tuiteó la procesada funcionaria macrista, haciendo alusión a la llegada del ex presidente de Bolivia.
-Sus declaraciones generaron un enorme rechazo, llegando a convertir la palabra "nazis" en tendencia en Twitter. Frente a la catarata de críticas que recibió, la exfuncionaria, lejos de bajar la intensidad, pasó a responderles irónicamente en inglés: "Funny K trolls: keep calm. I am a simple common with opinions that make no harm", escribió, media hora después. 
-La DAIA, por su parte, tuiteó lo siguiente: "Banalizar la Shoá, tildando de dictadores y asesinos a dirigentes políticos colisiona contra todo escenario de convivencia. Durante la Shoá se asesinaron a 6 millones de judíos, evitemos las comparaciones incomparables".
-Evo Morales fue obligado a renunciar luego de que las fuerzas de seguridad se amotinasen y, junto a la oposición, impulsaran un golpe de Estado. El líder del Movimiento Al Socialismo se exilió primero a México, pero, luego del cambio de gobierno, decidió viajar a la Argentina en calidad de refugiado político (lugar en donde ya estaban residiendo sus hijos). Evo arribó a Ezeiza el jueves a la mañana acompañado su ex ministra de Salud Gabriela Montaño.
-Frente a este escenario, la ex funcionaria del Pro, que se encuentra actualmente procesada por haberle otorgado beneficios a la empresa Shell, tomó la decisión de comparar al líder aymará con el régimen alemán que asesinó a más de seis millones de judíos. No contenta con esas declaraciones, luego de burlarse de las personas que salieron a cuestionarla en la red - a quienes identificó como "graciososo trolls k" -, Alonso sintió la necesidad de educar a sus seguidores en la red sobre las andanzas de los nazis en la Argentina, una vez finalizada la Segunda Guerra Mundial. 
+¿Ya sos suscriptor digital? Ingresá
+Valorás el periodismo confiable. Te queremos en LA NACION.
+Durante 3 meses, luego $260/mes
+Durante 4 meses, luego $260/mes
+Durante 3 meses, luego $390/mes
+Durante 4 meses, luego $390/mes
+No hace falta que compres
+Ingresá los datos de tu credencial y continuá SIN CARGO
+No hace falta que compres
+Ingresá los datos de tu credencial y continuá SIN CARGO
+Es la opción que te ofrece LA NACION para leer sin límites el diario y las revistas digitales: OHLALA!, ¡HOLA!, ROLLINGSTONE, LUGARES, LIVING, BRANDO y JARDIN. Además, tenés acceso a la réplica digital de la edición impresa del diario y las revistas. Y según la suscripción que elijas, podés disfrutar de los beneficios de Club LA NACION.
+Sin suscripción podés leer hasta 15 notas de LA NACION o revistas en un rango de 30 días. A partir de la nota 16 te pedimos que te suscribas para seguir leyendo de manera ilimitada. Para usar tu suscripción tenés que ingresar con tu cuenta de Acceso Digital.
+Si. Podés seguir accediendo a la página principal de LA NACION, de las secciones y revistas, y a toda la información de servicios.
+Podés pagar con tarjeta de crédito a través del débito automático.
+¿Dudas? Consultá las Preguntas Frecuentes
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TREND
+Nico Occhiato
+----------------------------------------------------------------------------
+TITLE
+ShowMatch 2019: Flor Vigna y Nico Occhiato se enfrentarán en la final del Súper Bailando
+--------------------------------------
+BODY
+Flor Vigna y Nico Occhiato comenzaron juntos en el medio y, aunque se conocieron en el set de Combate, cuando el público los comenzó a registrar ya eran novios. Luego se fueron acompañando y alentando en cuanto proyecto se les pusiera adelante. Ella llegó más rápido a las tapas de las revistas y a los programas de televisión. Lo logró por su talento y simpatía, pero también por haberse convertido en la contracara de Mica Viciconte. Él, de perfil más bajo, comenzó acompañando a su pareja y, mientras soñaba con proyectos propios, fue encontrando su lugar al lado de su compañera. Luego llegaron sucesivas conducciones en Net.TV y un lugar destacado en La tribuna de Guido en 2018.
+Hasta que, este año, a la pareja la golpeó la crisis y se separó, más o menos al mismo tiempo en que Nico comenzó a bailar en la pista de ShowMatch. Lo que el propio participante creía que iban a durar dos galas, terminó el viernes con su consagración como finalista del Bailando 2019.
+En la segunda semi final de este ciclo, Nico y su compañera Flor Jazmín Peña (gran artífice del éxito) se enfrentaron a Karina "La Princesita" y Emiliano Buitrago en dos ritmos: Cumbia y Libre. En el primero, la cantante tropical sacó amplia ventaja a pura sensualidad y talento, y se llevó el primer punto de la noche por votación del jurado y del BAR.
+En la siguiente contienda no quedaron dudas, el equipo de Nico y Flor supo escuchar las devoluciones del jurado a lo largo del año, quienes pedían contundencia y finales potentes. Pusieron todo eso y más para no perder chances. Aunque, desde su casa, el espectador supone que se forzará a los planetas para que se alineen y la definición sea telefónica, lo cierto es que la unanimidad de los siete integrantes del jurado coincidió con lo visto y la pareja se ganó el punto del empate.
+Se reprodujo un compacto que recorrió la historia de ambos participantes en fotos. Antes y después, la emoción se adueñó de toda la familia Occhiato, con su abuela Conce a la cabeza. "Es la primera vez que lo vemos llorar", decía de su nieto, al mismo tiempo que ellos tampoco se podían contener. Tinelli, Florecia Peña, Laura Fidalgo, Anibal Pachano y Flavio Mendoza acompañaron las lágrimas de la pista con más lágrimas. Ángel de Brito y Marcelo Polino mantuvieron la compostura, al menos mientras la cámara los enfocó.
+Ambos eran muy fuertes con el teléfono, aunque Karina tenía más experiencia. Recién bien entrada la medianoche, Marcelo develó la incógnita: con el 53,47% de los votos, Nico Occhiato y Flor Jazmín Peña pasaron a la final del lunes. Los exnovios se verán las caras en un a todo o nada. La destreza versus el esfuerzo de dos personas que se conocen mucho para bien y para mal, en una de las finales más atractivas y menos previsibles en la historia del Bailando.
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Miembro de GDA. Grupo de Diarios América
+Copyright 2019 SA LA NACION | Todos los derechos reservados
+Protegido por reCAPTCHA:
+Descargá la aplicación de LA NACION. Es rápida y liviana.
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TREND
+River
+----------------------------------------------------------------------------
+TITLE
+River Plate es el campeón de la Copa Argentina 2019 
+--------------------------------------
+BODY
+El sorprendente Central Córdoba de Santiago del Estero no pudo con este River de Marcelo Gallardo, que lo venció 3-0 en el estadio Malvinas Argentinas de Mendoza, se consagró campeón de la Copa Argentina y obtuvo su pasaje directo a la edición 2020 de la Copa Libertadores. Ignacio Scocco en la primera etapa, Ignacio Fernández -la figura de la cancha- y el ingresado Julián Alvarez en el complemento, los goles millonarios. Este nuevo éxito del club de Núñez permitió que Atlético Tucumán también rubricara su clasificación al máximo torneo continental, en tanto Argentinos Juniors participará de la Sudamericana venidera.
+De entrada, Central Córdoba se paró con cinco defensores y le cedió la pelota a River. Así y todo, tras un lateral en ataque para los santiagueños y un rechazo de la defensa riverplatense, Nani fue el primero en disparar al arco a los 4 minutos, aunque Armani contuvo sin problemas.
+Pese a la buena prestación de Nacho Fernández, ya recuperado de su lesión, el conjunto de Gallardo no encontraba espacios en el cerrado esquema del rival y tuvo su primera llegada clara tras un corner y un cabezazo de Pinola, que le había ganado la posición a Nani, que se fue muy arriba. Enseguida, Scocco acechó con peligro el arco defendido por el Ruso Rodríguez.
+Poco después, un bombazo desde fuera del área de Núñez hizo volar a Armani, que con una mano la mandó al corner de forma magnífica. Poco después, Borré se la bajó a Nacho Scocco, su remate fue tapado por un defensor y de rebote Palacios la mandó muy arriba.
+En la réplica, una corajeada de Herrera terminó con un zurdazo y un nuevo lucimiento del también arquero del seleccionado argentino.
+Cerca de la media hora sobrevino una jugada polémica cuando, tras un doble enganche, Herrera cayó dentro del área tocado por Pinola, aunque el árbitro Tello no lo consideró penal.
+De inmediato, Nacho Scocco abrió la cuenta tras una gran media vuelta y luego de que Rodríguez diera rebote. Hasta ahí y con poco, el Ciruja había puesto en aprietos al siempre seguro Armani; pero el que facturó fue el Millonario, que de este modo comenzó a ser más preciso y a jugar más suelto.
+De vuelta del descanso, Central Córdoba abrió un poco más sus líneas en procura de igualar el trámite, lo que facilitó el trabajo de los mediocampistas, que con el tridente De la Cruz-Palacios-Fernández comenzó a fabricar mejores opciones para sus delanteros. Y si a River le dan espacios...
+Como el gran gasto lo había hecho en los primeros 45 minutos, el Ciruja lució algo cansado en el complemento y la presión sobre el rival ya no era tan asfixiante. Para colmo, una incursión en ataque del lateral Montiel terminó con un centro milimétrico a la cabeza de Scocco, quien la mandó muy cerca del poste derecho.
+Hasta que primero Fernández y luego Alvarez sentenciaron el pleito en cuatro minutos, le dieron a River un nuevo título en la era Gallardo y, a tres semanas de la frustrante excursión por Lima, el pasaje a una nueva ilusión: la Copa Libertadores 2020.
+3 RIVER PLATE: Armani; Montiel, Martínez Quarta, Pinola, Casco; E. Pérez, E. Palacios, De la Cruz; I. Fernández;  Scocco, Borré. DT: Marcelo Gallardo.0 CENTRAL CORDOBA (SdE): D. Rodríguez; Quilez, Salomón, Vera Oviedo, Nani, Bay; Alzugaray, Vega, Meli, G. Núnez; J. Herrera. DT: Gustavo Coleoni.Estadio: Malvinas Argentinas (Mendoza). Arbitro: Facundo Tello.
+Goles: 30m Scocco (R); 67m I. Fernández (R), 71m J. Alvarez (R).
+Cambios: 46m J. Rodríguez por G. Núñez (CC), 65m J. Alvarez por Borré (R), 54m F. Cristaldo por Quilez (CC), 75m Miracco por Alzugaray (CC), 76m Ponzio por E. Pérez (R), 79m Pratto por E. Palacios (R).
 República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
 
 --------------------------------------
@@ -47,14 +196,48 @@ Pagina12 RSS
 --------------------------------------
 
 --------------------------------------
-TREND
-Evita
-----------------------------------------------------------------------------
 TITLE
-El autor del mural de Evita y su emoción al ver que la obra volvió a ser iluminada
+Por qué el título de River en la Copa Argentina benefició a Atlético Tucumán y Argentinos Juniors
 --------------------------------------
 BODY
-El artista y autor del mural de Evita en Ministerio de Salud y Desarrollo Social compartió sus emociones al ver su obra nuevamente iluminada. “Se enciende Evita y se enciende todo lo demás”, destacó el artista plástico Daniel Santoro. También dijo que “lo de Evita de anoche es la alegría de los laburantes” y celebró que “hoy en día no hay disputas internas dentro del peronismo”.
+El título de River en la Copa Argentina reconfiguró la nómina de clasificados a la Libertadores y la Sudamericana del año próximo, cuyo sorteo se realizará el martes en Luque, Paraguay. Por un lado, el equipo millonario, subcampeón de la Libertadores 2019, ingresará directo en la etapa de grupos (por haber ganado la Copa Argentina) y será cabeza de serie. Como ya tenía el pasaje a la fase preliminar por haber ocupado el quinto puesto en la última Superliga, ese lugar queda para Atlético Tucumán, quinto en el torneo.
+Pero el efecto dominó no termina ahí. Los tucumanos ya estaban clasificados para la Copa Sudamericana, por lo que dejan su lugar. Esa plaza ahora será para Argentinos Juniors, que fue semifinalista en la Copa de la Superliga y es el único de los cuatro mejores equipos de ese torneo que no tenía pasaje a ningún torneo internacional: Boca, Tigre y Atlético Tucumán están en Libertadores.
+Copa Libertadores 2020
+Copa Sudamericana 2020
+De todas maneras, Argentinos no tendrá ventajas comparativas por ser "Argentina 1". Todos los equipos arrancan en fase única.
+La bienvenida de la Copa Sudamericana a Argentinos Juniors
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Miembro de GDA. Grupo de Diarios América
+Copyright 2019 SA LA NACION | Todos los derechos reservados
+Protegido por reCAPTCHA:
+Descargá la aplicación de LA NACION. Es rápida y liviana.
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TREND
+Copa Argentina
+----------------------------------------------------------------------------
+TITLE
+River Plate es el campeón de la Copa Argentina 2019 
+--------------------------------------
+BODY
+El sorprendente Central Córdoba de Santiago del Estero no pudo con este River de Marcelo Gallardo, que lo venció 3-0 en el estadio Malvinas Argentinas de Mendoza, se consagró campeón de la Copa Argentina y obtuvo su pasaje directo a la edición 2020 de la Copa Libertadores. Ignacio Scocco en la primera etapa, Ignacio Fernández -la figura de la cancha- y el ingresado Julián Alvarez en el complemento, los goles millonarios. Este nuevo éxito del club de Núñez permitió que Atlético Tucumán también rubricara su clasificación al máximo torneo continental, en tanto Argentinos Juniors participará de la Sudamericana venidera.
+De entrada, Central Córdoba se paró con cinco defensores y le cedió la pelota a River. Así y todo, tras un lateral en ataque para los santiagueños y un rechazo de la defensa riverplatense, Nani fue el primero en disparar al arco a los 4 minutos, aunque Armani contuvo sin problemas.
+Pese a la buena prestación de Nacho Fernández, ya recuperado de su lesión, el conjunto de Gallardo no encontraba espacios en el cerrado esquema del rival y tuvo su primera llegada clara tras un corner y un cabezazo de Pinola, que le había ganado la posición a Nani, que se fue muy arriba. Enseguida, Scocco acechó con peligro el arco defendido por el Ruso Rodríguez.
+Poco después, un bombazo desde fuera del área de Núñez hizo volar a Armani, que con una mano la mandó al corner de forma magnífica. Poco después, Borré se la bajó a Nacho Scocco, su remate fue tapado por un defensor y de rebote Palacios la mandó muy arriba.
+En la réplica, una corajeada de Herrera terminó con un zurdazo y un nuevo lucimiento del también arquero del seleccionado argentino.
+Cerca de la media hora sobrevino una jugada polémica cuando, tras un doble enganche, Herrera cayó dentro del área tocado por Pinola, aunque el árbitro Tello no lo consideró penal.
+De inmediato, Nacho Scocco abrió la cuenta tras una gran media vuelta y luego de que Rodríguez diera rebote. Hasta ahí y con poco, el Ciruja había puesto en aprietos al siempre seguro Armani; pero el que facturó fue el Millonario, que de este modo comenzó a ser más preciso y a jugar más suelto.
+De vuelta del descanso, Central Córdoba abrió un poco más sus líneas en procura de igualar el trámite, lo que facilitó el trabajo de los mediocampistas, que con el tridente De la Cruz-Palacios-Fernández comenzó a fabricar mejores opciones para sus delanteros. Y si a River le dan espacios...
+Como el gran gasto lo había hecho en los primeros 45 minutos, el Ciruja lució algo cansado en el complemento y la presión sobre el rival ya no era tan asfixiante. Para colmo, una incursión en ataque del lateral Montiel terminó con un centro milimétrico a la cabeza de Scocco, quien la mandó muy cerca del poste derecho.
+Hasta que primero Fernández y luego Alvarez sentenciaron el pleito en cuatro minutos, le dieron a River un nuevo título en la era Gallardo y, a tres semanas de la frustrante excursión por Lima, el pasaje a una nueva ilusión: la Copa Libertadores 2020.
+3 RIVER PLATE: Armani; Montiel, Martínez Quarta, Pinola, Casco; E. Pérez, E. Palacios, De la Cruz; I. Fernández;  Scocco, Borré. DT: Marcelo Gallardo.0 CENTRAL CORDOBA (SdE): D. Rodríguez; Quilez, Salomón, Vera Oviedo, Nani, Bay; Alzugaray, Vega, Meli, G. Núnez; J. Herrera. DT: Gustavo Coleoni.Estadio: Malvinas Argentinas (Mendoza). Arbitro: Facundo Tello.
+Goles: 30m Scocco (R); 67m I. Fernández (R), 71m J. Alvarez (R).
+Cambios: 46m J. Rodríguez por G. Núñez (CC), 65m J. Alvarez por Borré (R), 54m F. Cristaldo por Quilez (CC), 75m Miracco por Alzugaray (CC), 76m Ponzio por E. Pérez (R), 79m Pratto por E. Palacios (R).
 República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
 
 --------------------------------------
@@ -63,16 +246,42 @@ Pagina12 RSS
 --------------------------------------
 
 --------------------------------------
-TREND
-Evo Morales
-----------------------------------------------------------------------------
 TITLE
-Cómo fueron los primeros minutos de Evo Morales en Argentina
+Por qué el título de River en la Copa Argentina benefició a Atlético Tucumán y Argentinos Juniors
 --------------------------------------
 BODY
-El secretario general de ATE capital, Daniel Catalano, contó en Te Quiero cómo fue el recibimiento de Evo Morales en Argentina. “Participamos de la bienvenida. Después el Gobierno se hizo cargo de lo protocolar, la seguridad y el alojamiento”, contó en diálogo con la AM750. 
-El sindicalista y miembro de la comitiva anticipó que se entraron en la madrugada sobre la llegada del mandatario boliviano depuesto por un golpe de Estado.
-“Evo y Linera quieren estar en su país. Pero están contentos de estar en Argentina, es un país muy hermano para ellos. Con el correr de los días harán declaraciones y se podrá interpretar que irán haciendo hacia adelante”, anticipó.
+El título de River en la Copa Argentina reconfiguró la nómina de clasificados a la Libertadores y la Sudamericana del año próximo, cuyo sorteo se realizará el martes en Luque, Paraguay. Por un lado, el equipo millonario, subcampeón de la Libertadores 2019, ingresará directo en la etapa de grupos (por haber ganado la Copa Argentina) y será cabeza de serie. Como ya tenía el pasaje a la fase preliminar por haber ocupado el quinto puesto en la última Superliga, ese lugar queda para Atlético Tucumán, quinto en el torneo.
+Pero el efecto dominó no termina ahí. Los tucumanos ya estaban clasificados para la Copa Sudamericana, por lo que dejan su lugar. Esa plaza ahora será para Argentinos Juniors, que fue semifinalista en la Copa de la Superliga y es el único de los cuatro mejores equipos de ese torneo que no tenía pasaje a ningún torneo internacional: Boca, Tigre y Atlético Tucumán están en Libertadores.
+Copa Libertadores 2020
+Copa Sudamericana 2020
+De todas maneras, Argentinos no tendrá ventajas comparativas por ser "Argentina 1". Todos los equipos arrancan en fase única.
+La bienvenida de la Copa Sudamericana a Argentinos Juniors
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Miembro de GDA. Grupo de Diarios América
+Copyright 2019 SA LA NACION | Todos los derechos reservados
+Protegido por reCAPTCHA:
+Descargá la aplicación de LA NACION. Es rápida y liviana.
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TREND
+retenciones
+----------------------------------------------------------------------------
+TITLE
+El Gobierno modificó el esquema de retenciones agropecuarias
+--------------------------------------
+BODY
+En el marco de las primeras medidas destinadas a sacar de la emergencia a los que menos tienen, el gobierno de Alberto Fernández estableció un cambio en el régimen de retenciones a las exportaciones agropecuarias. En lugar de 4 pesos por dólar exportado, a partir de ahora se pagará una tasa fija de 9%.
+La medida fue dispuesta por medio de un decreto publicado este sábado en el Boletín Oficial. Allí también se dio a conocer una resolución del Ministerio de Agricultura que va de la mano de la modificación: el cierre del registro en el que se declaran las exportaciones de granos y subproductos.
+La modificación al esquema de retenciones es parte de los primeros pasos que empieza a dar la actual gestión para atender a los sectores menos favorecidos. A última hora del viernes, Fernández también dictó un decreto de necesidad y urgencia en el que fijó por 180 días la doble indemnización para los despidos sin causa. 
+Como adelantó también en exclusiva Página/12, el presidente y sus colaboradores ultiman los detalles del proyecto de ley de Solidaridad Social y Reactivación Productiva . La iniciativa empezará a ser tratada la semana próxima en la Cámara de Diputados en el marco de las sesiones extraordinarias que convocó el Ejecutivo. Prevé aumentos en jubilaciones y AUH. Impuesto a las compras en el exterior y cambios en Bienes Personales. También contempla la modificación de la política fiscal regresiva que dejó Mauricio Macri.
+El esquema de retenciones vigente hasta hoy también era parte de la herencia macrista. El anterior presidente impuso los 4 pesos por dólar en septiembre de 2018. Entonces el billete verde cotizaba en torno a los 38 pesos, con lo cual las retenciones equivalían a un 10%. Hoy, con el dólar al doble, representan la mitad.
+El decreto fue firmado por Fernández; el jefe de Gabinete, Santiago Cafiero; el ministro de Economía, Martín Guzmán; y el ministro de Agricultura, Luis Basterra. Este último fue quien firmó la resolución que cierra el registro de exportaciones.
+Los dirigentes de las cámaras agropecuarias, atentos a las modificaciones que sabían, que venían ya habían manifestado su rechazo. Apenas conocido el cambio al esquema de retenciones empezaron a hacer oír sus críticas.
 República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
 
 --------------------------------------
@@ -81,17 +290,107 @@ Pagina12 RSS
 --------------------------------------
 
 --------------------------------------
-TREND
-Facultad de Derecho
-----------------------------------------------------------------------------
 TITLE
-Alberto Fernández fue a la Facultad de Derecho a tomarle examen a sus alumnos
+El Gobierno cambió el esquema de retenciones y decidió aumentarlas
 --------------------------------------
 BODY
-Alberto Fernández se hizo un hueco en su agenda y en lugar de ir a la Casa Rosada fue a la Facultad de Derecho de la Universidad de Buenos Aires. Allí se sumó a una mesa de examen para evaluar a sus alumnos del segundo cuatrimestre.
-El flamante presidente partió de la Quinta de Olivos en helicóptero. Al bajarse en el helipuerto de la Casa de Gobierno no fue a su despacho, sino que dejó de lado por un momento su rol de presidente y se subió a la camioneta que lo llevó hasta la facultad donde ejerce como profesor.
-Tras tomar examen a sus alumnos, Fernández tenía previsto en su agenda recibir a las 11.30 en la Rosada al vicepresidente de Google, Phillipps Schindler. De acuerdo a la información oficial, durante el encuentro estaba pautado analizará las iniciativas de la empresa en el país y que participara también el titular de Google Argentina.
-Fernández es profesor de Teoría General del Derecho. Durante la campaña trató de acomodar su agenda de modo de poder finalizar los cursos y así no dejar inconclusa su relación con los alumnos. El cargo docente no es incompatible con la función de presidente, aunque en función de la tarea que ahora tiene por delante en la primera magistratura lo llevaría a pedir licencia en la facultad.
+El Gobierno decidió hoy cerrar el registro para declarar las exportaciones de granos y subproductos y aumentar las retenciones.
+En una resolución publicada este sábado en el Boletín Oficial, que lleva el número 196, el ministro de Agricultura Luis Basterra suspendió para el próximo lunes cualquier registro de venta al exterior.
+Por otra parte, con el decreto 37, firmado por el presidente Alberto Fernández; el jefe de Gabinete, Santiago Cafiero; el ministro de Economía, Martín Guzmán, y Basterra, se dejó sin efecto el esquema de retenciones de 4 pesos por dólar exportado. Al eliminarse el tope de $4 por dólar queda, no obstante, un 12% de retenciones.
+La soja, por ejemplo, ya tenía un 18% fijo y pagaba 4 pesos por dólar. Sube con la modificación a una tasa total del 30%. Trigo, maíz y otros productos, que pagaban solo $4 por dólar, quedan con un 12%. En tanto, carnes, leche en polvo, harinas y legumbres tendrán un 9% fijo.
+Cuando el gobierno anterior puso en septiembre de 2018 las retenciones de $4 por dólar, con un valor de la divisa norteamericana a $38 equivalían a 10%. Hoy con la suba del dólar representan en torno de un 5%.
+"Esto no va a caer bien en el sector, no va a gustar", dijo Matías De Velazco, presidente de la Confederación de Asociaciones Rurales de Buenos Aires y La Pampa ( Carbap).
+Carlos Iannizzotto, presidente de Coninagro, señaló que el presidente Alberto Fernández "comienza a faltar a su palabra" porque "dijo que no iba hacer cosas sin consultas". "Esperábamos un anuncio a favor de la producción, alentándola", señaló.
+"Cuando [Alberto Fernández] era candidato dijo que nos iba a consultar, y eso no ha sucedido. Con el ministro [ Luis Basterra] nos juntamos el jueves y no nos comentó nada", señaló en la misma línea, Daniel Pelegrina, presidente de la Sociedad Rural Argentina, a Radio Mitre.
+Jorge Chemes, presidente de Confederaciones Rurales Argentinas (CRA), indicó que la Mesa de Enlace tendrá una reunión "urgente".
+"El diálogo es la principal herramienta y es fundamental que nos escuchen. Creo que ya lo tenían decidido para salir con un efecto sorpresa. El impacto en la rentabilidad va a ser fuerte", señaló a radio Continental. Luego agregó: "Nos vamos a reunir urgente".
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Miembro de GDA. Grupo de Diarios América
+Copyright 2019 SA LA NACION | Todos los derechos reservados
+Protegido por reCAPTCHA:
+Descargá la aplicación de LA NACION. Es rápida y liviana.
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TITLE
+Soja, trigo y maíz. Revelan que el campo perderá plata con más retenciones a los principales cultivos
+--------------------------------------
+BODY
+La soja, el maíz y el trigo, los tres principales cultivos que tiene la Argentina para exportar al mundo, pasarían a generar pérdidas a los productores si el Gobierno de Alberto Fernández sube las retenciones a más del 30% en el primer producto y por encima del 11% en los últimos dos cereales.
+Estos datos se desprenden de un informe que hizo la consultora AZ Group con valores actuales, rindes promedio a nivel nacional de las últimas cinco campañas agrícolas y rendimientos de diferencia (sin incluir impuestos), esto es cuántos kilos se deben obtener a campo para cubrir los costos clave de la producción.
+La soja hoy tributa un 18% de retenciones fijas y 4 pesos por dólar exportado. En total, hoy la alícuota efectiva es del 25%. En tanto, el maíz y el trigo pagan 4 pesos por dólar exportado que equivalen a una tasa ahora en torno del 7%.
+"En soja, con retenciones por encima del 30% no se llega a cubrir los costos. En maíz, con derechos de exportación superiores a 11%, cuatro puntos porcentuales mayores que los actuales, con rindes promedio tampoco se logran cubrir los costos. En el caso de trigo, con derechos de exportación superiores a 11% tampoco se alcanzan a cubrir los costos con el rinde promedio de la Argentina", remarca la consultora.
+En soja, el rinde promedio nacional de los últimos cinco ciclos productivos es de 3 toneladas por hectárea. Con una retención del 25%, hoy en campo alquilado el rinde de indiferencia es de 2,81 toneladas por hectárea, lo necesario para que se cubran los costos directos e indirectos, sin incluir impuestos.
+Cuando se pasa a una retención del 30% la ecuación queda casi empatada, ya que se requiere como rinde de indiferencia 2,98 toneladas por hectárea para pagar los costos, sin descontar impuestos.
+Por otra parte, con un derecho del 35 por ciento habría que sacar al menos 3,18 toneladas por hectárea. Vale recordar que el rinde promedio nacional de las últimas cinco campañas fue de 3 toneladas.
+Respecto del maíz, el rinde promedio de las últimas cinco campañas se ubicó en 7,3 toneladas por hectárea. Con retenciones que trepen al 12% ya habría que obtener 7,4 toneladas para no perder plata y si volvieran a una tasa del 20%, como ocurrió durante el kirchnersimo, en este caso se tendrían que lograr 8,5 toneladas.
+En la zona agrícola núcleo estos rindes pueden ser, si el clima acompaña, más fácil de lograr, pero es complicado en las regiones alejadas de los puertos donde también influyen los altos costos de los fletes.
+En cuanto al trigo, su rinde promedio nacional dio 3,07 toneladas por hectárea en las últimas cinco campañas. Con un derecho de exportación de 15% se tendrían que conseguir 3,22 toneladas por hectárea para no perder plata con el cultivo y luego 3,66 toneladas por hectárea si la retención se ubicara en el 23%, tasa que hubo con Cristina Kirchner.
+"El principal efecto de esta realidad es que se concentraría la superficie de cada cultivo en las zonas donde se ve favorecido, ya sea por características geográficas o agroambientales. Por ejemplo, al aumentar las retenciones en el cultivo de maíz es muy probable que en futuras campañas disminuya la superficie en aquellas zonas alejadas de los puertos", señala el trabajo de la consultora.
+"En el caso del trigo, se puede esperar que en zonas donde el potencial de rendimiento no alcance los rindes de indiferencia, se remplace por cultivos de servicio (para tener cubierto el suelo) o simplemente se siembre un cultivo de grano grueso. Así, se concentraría la mayor producción en la zona triguera y disminuiría la inversión por hectárea sembrada", agrega.
+El campo hoy en más del 80% del área agrícola está afrontando una falta de humedad que genera incertidumbre sobre la finalización de la siembra de soja y maíz y la producción de la nueva cosecha.
+Los comentarios publicados son de exclusiva responsabilidad de sus autores y las consecuencias derivadas de ellos pueden ser pasibles de sanciones legales. Aquel usuario que incluya en sus mensajes algún comentario violatorio del reglamento será eliminado e inhabilitado para volver a comentar. Enviar un comentario implica la aceptación del Reglamento.
+Miembro de GDA. Grupo de Diarios América
+Copyright 2019 SA LA NACION | Todos los derechos reservados
+Protegido por reCAPTCHA:
+Descargá la aplicación de LA NACION. Es rápida y liviana.
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TITLE
+Daniel Pelegrina, sobre el aumento de retenciones: "Alberto Fernández dijo que nos iba a consultar y eso no pasó"
+--------------------------------------
+BODY
+¿Ya sos suscriptor digital? Ingresá
+Valorás el periodismo confiable. Te queremos en LA NACION.
+Durante 3 meses, luego $260/mes
+Durante 4 meses, luego $260/mes
+Durante 3 meses, luego $390/mes
+Durante 4 meses, luego $390/mes
+No hace falta que compres
+Ingresá los datos de tu credencial y continuá SIN CARGO
+No hace falta que compres
+Ingresá los datos de tu credencial y continuá SIN CARGO
+Es la opción que te ofrece LA NACION para leer sin límites el diario y las revistas digitales: OHLALA!, ¡HOLA!, ROLLINGSTONE, LUGARES, LIVING, BRANDO y JARDIN. Además, tenés acceso a la réplica digital de la edición impresa del diario y las revistas. Y según la suscripción que elijas, podés disfrutar de los beneficios de Club LA NACION.
+Sin suscripción podés leer hasta 15 notas de LA NACION o revistas en un rango de 30 días. A partir de la nota 16 te pedimos que te suscribas para seguir leyendo de manera ilimitada. Para usar tu suscripción tenés que ingresar con tu cuenta de Acceso Digital.
+Si. Podés seguir accediendo a la página principal de LA NACION, de las secciones y revistas, y a toda la información de servicios.
+Podés pagar con tarjeta de crédito a través del débito automático.
+¿Dudas? Consultá las Preguntas Frecuentes
+
+--------------------------------------
+MEDIUM
+La Nacion
+--------------------------------------
+
+--------------------------------------
+TREND
+River Plate
+----------------------------------------------------------------------------
+TITLE
+River Plate es el campeón de la Copa Argentina 2019 
+--------------------------------------
+BODY
+El sorprendente Central Córdoba de Santiago del Estero no pudo con este River de Marcelo Gallardo, que lo venció 3-0 en el estadio Malvinas Argentinas de Mendoza, se consagró campeón de la Copa Argentina y obtuvo su pasaje directo a la edición 2020 de la Copa Libertadores. Ignacio Scocco en la primera etapa, Ignacio Fernández -la figura de la cancha- y el ingresado Julián Alvarez en el complemento, los goles millonarios. Este nuevo éxito del club de Núñez permitió que Atlético Tucumán también rubricara su clasificación al máximo torneo continental, en tanto Argentinos Juniors participará de la Sudamericana venidera.
+De entrada, Central Córdoba se paró con cinco defensores y le cedió la pelota a River. Así y todo, tras un lateral en ataque para los santiagueños y un rechazo de la defensa riverplatense, Nani fue el primero en disparar al arco a los 4 minutos, aunque Armani contuvo sin problemas.
+Pese a la buena prestación de Nacho Fernández, ya recuperado de su lesión, el conjunto de Gallardo no encontraba espacios en el cerrado esquema del rival y tuvo su primera llegada clara tras un corner y un cabezazo de Pinola, que le había ganado la posición a Nani, que se fue muy arriba. Enseguida, Scocco acechó con peligro el arco defendido por el Ruso Rodríguez.
+Poco después, un bombazo desde fuera del área de Núñez hizo volar a Armani, que con una mano la mandó al corner de forma magnífica. Poco después, Borré se la bajó a Nacho Scocco, su remate fue tapado por un defensor y de rebote Palacios la mandó muy arriba.
+En la réplica, una corajeada de Herrera terminó con un zurdazo y un nuevo lucimiento del también arquero del seleccionado argentino.
+Cerca de la media hora sobrevino una jugada polémica cuando, tras un doble enganche, Herrera cayó dentro del área tocado por Pinola, aunque el árbitro Tello no lo consideró penal.
+De inmediato, Nacho Scocco abrió la cuenta tras una gran media vuelta y luego de que Rodríguez diera rebote. Hasta ahí y con poco, el Ciruja había puesto en aprietos al siempre seguro Armani; pero el que facturó fue el Millonario, que de este modo comenzó a ser más preciso y a jugar más suelto.
+De vuelta del descanso, Central Córdoba abrió un poco más sus líneas en procura de igualar el trámite, lo que facilitó el trabajo de los mediocampistas, que con el tridente De la Cruz-Palacios-Fernández comenzó a fabricar mejores opciones para sus delanteros. Y si a River le dan espacios...
+Como el gran gasto lo había hecho en los primeros 45 minutos, el Ciruja lució algo cansado en el complemento y la presión sobre el rival ya no era tan asfixiante. Para colmo, una incursión en ataque del lateral Montiel terminó con un centro milimétrico a la cabeza de Scocco, quien la mandó muy cerca del poste derecho.
+Hasta que primero Fernández y luego Alvarez sentenciaron el pleito en cuatro minutos, le dieron a River un nuevo título en la era Gallardo y, a tres semanas de la frustrante excursión por Lima, el pasaje a una nueva ilusión: la Copa Libertadores 2020.
+3 RIVER PLATE: Armani; Montiel, Martínez Quarta, Pinola, Casco; E. Pérez, E. Palacios, De la Cruz; I. Fernández;  Scocco, Borré. DT: Marcelo Gallardo.0 CENTRAL CORDOBA (SdE): D. Rodríguez; Quilez, Salomón, Vera Oviedo, Nani, Bay; Alzugaray, Vega, Meli, G. Núnez; J. Herrera. DT: Gustavo Coleoni.Estadio: Malvinas Argentinas (Mendoza). Arbitro: Facundo Tello.
+Goles: 30m Scocco (R); 67m I. Fernández (R), 71m J. Alvarez (R).
+Cambios: 46m J. Rodríguez por G. Núñez (CC), 65m J. Alvarez por Borré (R), 54m F. Cristaldo por Quilez (CC), 75m Miracco por Alzugaray (CC), 76m Ponzio por E. Pérez (R), 79m Pratto por E. Palacios (R).
 República Argentina | Todos los derechos reservados | Política de privacidad | Términos y Condiciones© 2000-2019 www.pagina12.com.ar
 
 --------------------------------------

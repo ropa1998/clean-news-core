@@ -12,5 +12,10 @@ public interface IMediumScrapperFactory {
      */
     IMediumScrapper getPagina12Scrapper();
 
+    /**
+     * @return IMediumScrapper that scraps the argentinian newspaper LaNacion
+     */
+    IMediumScrapper getLaNacionScrapper();
+
 
 }

@@ -1,5 +1,8 @@
 import com.gargoylesoftware.htmlunit.WebClient;
 import implementations.CleanNewsEngine;
+import implementations.cli.IArgsSolver;
+import implementations.cli.MediumScrapperSolver;
+import implementations.cli.TrendsScrapperSolver;
 import implementations.core.cleanNewsResult.ICleanNewsResult;
 import implementations.factory.mediumScrapper.IMediumScrapperFactory;
 import implementations.factory.mediumScrapper.RSSMediumScrapperFactory;
@@ -24,10 +27,13 @@ public class Main {
         WebClient webClient = webClientFactory.getBasicWebClient();
 
         IMediumScrapperFactory mediumScrapperFactory = new RSSMediumScrapperFactory(webClient);
-        mediumScrappers.add(mediumScrapperFactory.getPagina12Scrapper());
-
         ITrendScrapperFactory trendScrapperFactory = new Trends24ScrapperFactory(webClient);
-        trendScrappers.add(trendScrapperFactory.getArgentinaScrapper());
+
+        IArgsSolver trendsScrapperArgsSolver = new TrendsScrapperSolver(trendScrappers, trendScrapperFactory);
+        IArgsSolver mediumScrapperArgsSolver = new MediumScrapperSolver(mediumScrappers, mediumScrapperFactory);
+
+        trendsScrapperArgsSolver.solve(args);
+        mediumScrapperArgsSolver.solve(args);
 
         CleanNewsEngine cleanNewsEngine = new CleanNewsEngine(mediumScrappers, trendScrappers);
         cleanNewsEngine.run();

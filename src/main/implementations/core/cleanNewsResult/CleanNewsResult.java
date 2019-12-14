@@ -8,13 +8,21 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * This class is responsible for connecting the trends with the articles.
+ * Inside of it there is a Map that connects ITrends with a list of IArticles
+ */
 public class CleanNewsResult implements ICleanNewsResult {
 
     private Map<ITrend, List<IArticle>> trendListMap;
 
+    /**
+     * Instantiates the CleanNewsResult object, with a new HashMap inside of it.
+     */
     public CleanNewsResult() {
         trendListMap = new HashMap<>();
     }
+
 
     public void add(ITrend trend, IArticle article) {
         if (!trendListMap.containsKey(trend)) {
@@ -27,6 +35,7 @@ public class CleanNewsResult implements ICleanNewsResult {
             trendListMap.put(trend, articles);
         }
     }
+
 
     @Override
     public Map<ITrend, List<IArticle>> getMap() {

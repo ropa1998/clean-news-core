@@ -9,6 +9,11 @@ public class Trend implements ITrend {
     private final String name;
     private final IRegion region;
 
+    /**
+     * @param trend The name of the Trend
+     * @param region The IRegion to which this Trend belongs to.
+     * @param scrappingURL The URL from which a source should be scrapped from
+     */
     public Trend(String trend, IRegion region, String scrappingURL) {
         this.name = Utils.cleanCamelCasing(trend.replace("#", ""), " ");
         this.region = region;

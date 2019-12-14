@@ -9,12 +9,18 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
 
+/**
+ * A flusher that puts all of the content in a specific file
+ */
 public class FileFlusher extends AbstractFlusher {
 
 
     private File file;
     private String path;
 
+    /**
+     * @param path The path to the file where you want to save the result of the flusher
+     */
     public FileFlusher(String path) {
         try {
             this.path = path;
@@ -30,6 +36,10 @@ public class FileFlusher extends AbstractFlusher {
 
     }
 
+    /**
+     * @throws IOException
+     * Creates the header in the file with information of the date and time it was created
+     */
     private void createHeader() throws IOException {
         BufferedWriter output = new BufferedWriter(new FileWriter(file, true));
 

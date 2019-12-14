@@ -16,6 +16,12 @@ public abstract class AbstractArticle implements IArticle {
     private final HashSet<ITrend> trends;
     private final LocalDateTime date;
 
+    /**
+     * @param title The title of the Article you want to construct
+     * @param body The body of the Article you want to construct
+     * @param url The url of the Article you want to construct
+     * @param medium The IMedium where the article was published on.
+     */
     public AbstractArticle(String title, String body, String url, IMedium medium) {
         this.title = title;
         this.body = body;

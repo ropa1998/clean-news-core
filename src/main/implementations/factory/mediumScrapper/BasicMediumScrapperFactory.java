@@ -6,6 +6,9 @@ import implementations.scrappers.medium.article.BasicAbstractArticleScrapper;
 import implementations.scrappers.medium.title.BasicTitleScrapper;
 import implementations.scrappers.medium.IMediumScrapper;
 
+/**
+ * An AbstractMediumScrapperFactory that scraps media in the most simple way, just going to each of the home pages and reading the articles from the page.
+ */
 public class BasicMediumScrapperFactory extends AbstractMediumScrapperFactory {
 
 

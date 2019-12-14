@@ -10,12 +10,20 @@ import implementations.scrappers.medium.IMediumScrapper;
 import java.lang.Runnable;
 import java.util.Set;
 
-public class CleanNewsEngine implements Runnable {
+/**
+ * The engine that combines the user configuration to create the CleanNewsResult
+ */
+public class CleanNewsEngine implements IRunnable {
 
     private final Set<IMediumScrapper> mediumScrapperSet;
     private final Set<ITrendScrapper> trendScrapperSet;
     private ICleanNewsResult cleanNewsResult;
 
+    /**
+     * @param mediumScrapperSet The set of mediums you want scrapped.
+     * @param trendScrapperSet The set of trend regions you want scrapped
+     * Both combined will later generate the CleanNewsResult
+     */
     public CleanNewsEngine(Set<IMediumScrapper> mediumScrapperSet, Set<ITrendScrapper> trendScrapperSet) {
         this.mediumScrapperSet = mediumScrapperSet;
         this.trendScrapperSet = trendScrapperSet;
@@ -23,6 +31,10 @@ public class CleanNewsEngine implements Runnable {
     }
 
 
+    /**
+     * This method fires both the trends scrappers and the medium scrappers
+     * It later crosses the information to generate the CleanNewsResult corresponding to this run.
+     */
     @Override
     public void run() {
 
@@ -47,6 +59,9 @@ public class CleanNewsEngine implements Runnable {
     }
 
 
+    /**
+     * @return The populated CleanNewsResult
+     */
     public ICleanNewsResult getResult() {
         return cleanNewsResult;
     }

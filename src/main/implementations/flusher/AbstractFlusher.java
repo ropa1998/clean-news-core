@@ -10,6 +10,10 @@ import java.util.Map;
 
 public abstract class AbstractFlusher implements IFlusher {
 
+    /**
+     * @param cleanNewsResult
+     * A template method for flushing cleanNewsResults, where the aspects that vary are the article flush and the trend flush.
+     */
     @Override
     public void flush(ICleanNewsResult cleanNewsResult) {
         Map<ITrend, List<IArticle>> map = cleanNewsResult.getMap();

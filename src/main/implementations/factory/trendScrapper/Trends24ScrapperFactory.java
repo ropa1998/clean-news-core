@@ -6,6 +6,9 @@ import implementations.scrappers.trend.ITrendScrapper;
 import implementations.scrappers.trend.network.INetwork;
 import implementations.core.region.IRegion;
 
+/**
+ * An implementation of AbstractTrendScrapperFactory that retrieves the trends from trends24.in, a service that collects the Twitter trends.
+ */
 public class Trends24ScrapperFactory extends AbstractTrendScrapperFactory {
 
     public Trends24ScrapperFactory(WebClient webClient) {

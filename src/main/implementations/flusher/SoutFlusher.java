@@ -3,6 +3,9 @@ package implementations.flusher;
 import implementations.core.article.IArticle;
 import implementations.core.trend.ITrend;
 
+/**
+ * A flusher that shows the result in the console.
+ */
 public class SoutFlusher extends AbstractFlusher {
 
 

@@ -6,7 +6,7 @@ public abstract class AbstractArgsSolver implements IArgsSolver {
     private String keyword;
     private String flag;
 
-    public AbstractArgsSolver(String keyword, String flag) {
+    public AbstractArgsSolver(String flag, String keyword) {
         this.keyword = keyword;
         this.flag = flag;
     }

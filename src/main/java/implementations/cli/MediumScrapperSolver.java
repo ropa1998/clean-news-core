@@ -5,37 +5,18 @@ import implementations.scrappers.medium.IMediumScrapper;
 
 import java.util.Set;
 
-public class MediumScrapperSolver implements IArgsSolver {
+public class MediumScrapperSolver extends AbstractArgsSolver {
     private final IMediumScrapperFactory mediumScrapperFactory;
     private final Set<IMediumScrapper> mediumScrappers;
 
-    public MediumScrapperSolver(Set<IMediumScrapper> mediumScrappers, IMediumScrapperFactory mediumScrapperFactory) {
+    public MediumScrapperSolver(Set<IMediumScrapper> mediumScrappers, IMediumScrapperFactory mediumScrapperFactory, String flag, String keyword) {
+        super(flag, keyword);
         this.mediumScrappers = mediumScrappers;
         this.mediumScrapperFactory = mediumScrapperFactory;
     }
 
-    @Override
-    public void solve(String[] args) {
-        boolean reading = false;
 
-        for (int i = 0; i < args.length; i++) {
-            if (args[i].contains("-")) {
-                if (args[i].contains("media")) {
-                    reading = true;
-                    i = i + 1;
-                } else {
-                    reading = false;
-                }
-            }
-
-            if (reading) {
-                solve(args[i]);
-            }
-
-        }
-    }
-
-    private void solve(String arg) {
+    protected void solve(String arg) {
         switch (arg) {
             case "lanacion":
                 mediumScrappers.add(mediumScrapperFactory.getLaNacionScrapper());

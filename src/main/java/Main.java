@@ -29,8 +29,12 @@ public class Main {
         IMediumScrapperFactory mediumScrapperFactory = new RSSMediumScrapperFactory(webClient);
         ITrendScrapperFactory trendScrapperFactory = new Trends24ScrapperFactory(webClient);
 
-        IArgsSolver trendsScrapperArgsSolver = new TrendsScrapperSolver(trendScrappers, trendScrapperFactory);
-        IArgsSolver mediumScrapperArgsSolver = new MediumScrapperSolver(mediumScrappers, mediumScrapperFactory);
+        final String flag = "-";
+        final String trendKeyword = "trends";
+        final String mediumKeyword = "media";
+
+        IArgsSolver trendsScrapperArgsSolver = new TrendsScrapperSolver(trendScrappers, trendScrapperFactory, flag, trendKeyword);
+        IArgsSolver mediumScrapperArgsSolver = new MediumScrapperSolver(mediumScrappers, mediumScrapperFactory, flag, mediumKeyword);
 
         trendsScrapperArgsSolver.solve(args);
         mediumScrapperArgsSolver.solve(args);

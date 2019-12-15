@@ -9,8 +9,8 @@ import implementations.factory.mediumScrapper.RSSMediumScrapperFactory;
 import implementations.factory.trendScrapper.ITrendScrapperFactory;
 import implementations.factory.trendScrapper.Trends24ScrapperFactory;
 import implementations.factory.webclient.WebClientFactory;
-import implementations.flusher.FileFlusher;
 import implementations.flusher.IFlusher;
+import implementations.flusher.SoutFlusher;
 import implementations.scrappers.medium.IMediumScrapper;
 import implementations.scrappers.trend.ITrendScrapper;
 
@@ -40,7 +40,8 @@ public class Main {
 
         ICleanNewsResult cleanNewsResult = cleanNewsEngine.getResult();
 
-        IFlusher flusher = new FileFlusher("src/main/resources/results/result.txt");
+//        IFlusher flusher = new FileFlusher("src/main/resources/results/result.txt");
+        IFlusher flusher = new SoutFlusher();
         flusher.flush(cleanNewsResult);
     }
 

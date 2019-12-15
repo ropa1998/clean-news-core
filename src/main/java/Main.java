@@ -19,6 +19,11 @@ import java.util.Set;
 
 public class Main {
 
+    private static final String flag = "-";
+    final private static String trendKeyword = "trends";
+    final private static String mediumKeyword = "media";
+    final private static String flusherKeyword = "flusher";
+
     public static void main(String[] args) {
         Set<ITrendScrapper> trendScrappers = new HashSet<>();
         Set<IMediumScrapper> mediumScrappers = new HashSet<>();
@@ -29,11 +34,6 @@ public class Main {
 
         IMediumScrapperFactory mediumScrapperFactory = new RSSMediumScrapperFactory(webClient);
         ITrendScrapperFactory trendScrapperFactory = new Trends24ScrapperFactory(webClient);
-
-        final String flag = "-";
-        final String trendKeyword = "trends";
-        final String mediumKeyword = "media";
-        final String flusherKeyword = "flusher";
 
         IArgsSolver trendsScrapperArgsSolver = new TrendsScrapperSolver(trendScrappers, trendScrapperFactory, flag, trendKeyword);
         IArgsSolver mediumScrapperArgsSolver = new MediumScrapperSolver(mediumScrappers, mediumScrapperFactory, flag, mediumKeyword);

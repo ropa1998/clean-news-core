@@ -16,6 +16,7 @@ public abstract class AbstractArgsSolver implements IArgsSolver {
     @Override
     public void solve(String[] args) {
         boolean reading = false;
+        boolean alreadyEntered = false;
 
         for (int i = 0; i < args.length; i++) {
             if (args[i].contains(this.flag)) {
@@ -23,13 +24,20 @@ public abstract class AbstractArgsSolver implements IArgsSolver {
                     reading = true;
                     i = i + 1;
                 } else {
-                    reading = false;
+                    if (reading) {
+                        reading = false;
+                        alreadyEntered = true;
+                    }
                 }
+            }
+            if (alreadyEntered) {
+                break;
             }
 
             if (reading) {
                 solve(args[i]);
             }
+
 
         }
     }

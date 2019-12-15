@@ -16,7 +16,7 @@ class IFlusherTest {
     private final String testPath;
 
     public IFlusherTest() {
-        this.testPath = "src/test/results/mock/";
+        this.testPath = "src/test/java/resources/results/mock/";
     }
 
     @Test

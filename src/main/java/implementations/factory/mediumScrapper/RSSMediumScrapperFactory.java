@@ -25,5 +25,10 @@ public class RSSMediumScrapperFactory extends AbstractMediumScrapperFactory {
         return new MediumScrapper(this.webClient, new Medium("La Nacion", "http://contenidos.lanacion.com.ar/herramientas/rss/origen=2", "entry"), new RSSTitleScrapper(this.webClient), new BasicAbstractArticleScrapper(this.webClient));
     }
 
+    @Override
+    public IMediumScrapper getNYTAmericasScrapper() {
+        return new MediumScrapper(this.webClient, new Medium("NYT Americas", "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml", "item"), new RSSTitleScrapper(this.webClient), new BasicAbstractArticleScrapper(this.webClient));
+    }
+
 
 }

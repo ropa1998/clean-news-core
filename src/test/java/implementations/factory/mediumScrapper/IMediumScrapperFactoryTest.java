@@ -5,6 +5,7 @@ import implementations.factory.webclient.WebClientFactory;
 import implementations.scrappers.medium.IMediumScrapper;
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class IMediumScrapperFactoryTest {
@@ -29,9 +30,12 @@ class IMediumScrapperFactoryTest {
         IMediumScrapperFactory mediumScrapperFactory = new RSSMediumScrapperFactory(webClient);
         IMediumScrapper pagina12Scrapper = mediumScrapperFactory.getPagina12Scrapper();
         pagina12Scrapper.run();
-        assertTrue(!pagina12Scrapper.getArticles().isEmpty());
+        assertFalse(pagina12Scrapper.getArticles().isEmpty());
         IMediumScrapper laNacionScrapper = mediumScrapperFactory.getLaNacionScrapper();
         laNacionScrapper.run();
-        assertTrue(!laNacionScrapper.getArticles().isEmpty());
+        assertFalse(laNacionScrapper.getArticles().isEmpty());
+        IMediumScrapper nytAmericasAmericas = mediumScrapperFactory.getNYTAmericasScrapper();
+        nytAmericasAmericas.run();
+        assertFalse(nytAmericasAmericas.getArticles().isEmpty());
     }
 }

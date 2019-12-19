@@ -17,5 +17,7 @@ public interface IMediumScrapperFactory {
      */
     IMediumScrapper getLaNacionScrapper();
 
+    IMediumScrapper getNYTAmericasScrapper();
+
 
 }

@@ -26,4 +26,9 @@ public class BasicMediumScrapperFactory extends AbstractMediumScrapperFactory {
     public IMediumScrapper getLaNacionScrapper() {
         return null;
     }
+
+    @Override
+    public IMediumScrapper getNYTAmericasScrapper() {
+        return null;
+    }
 }

@@ -4,9 +4,10 @@ import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.DomElement;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import implementations.core.article.Article;
-import implementations.scrappers.Utils;
 import implementations.core.article.IArticle;
 import implementations.core.title.ITitle;
+import implementations.scrappers.Utils;
+import implementations.scrappers.medium.article.AbstractArticleScrapper;
 
 import java.util.List;
 

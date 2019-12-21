@@ -1,7 +1,7 @@
 package implementations.scrappers.trend;
 
-import implementations.core.trend.ITrend;
 import implementations.IRunnable;
+import implementations.core.trend.ITrend;
 
 import java.util.Set;
 

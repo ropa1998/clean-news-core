@@ -1,10 +1,11 @@
 package implementations.scrappers.trend;
 
-import implementations.scrappers.AbstractScrapper;
 import com.gargoylesoftware.htmlunit.WebClient;
-import implementations.scrappers.trend.network.INetwork;
 import implementations.core.region.IRegion;
 import implementations.core.trend.ITrend;
+import implementations.scrappers.AbstractScrapper;
+import implementations.scrappers.trend.ITrendScrapper;
+import implementations.scrappers.trend.network.INetwork;
 
 import java.util.HashSet;
 import java.util.Set;

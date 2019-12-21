@@ -1,8 +1,9 @@
 package implementations.scrappers.medium.title;
 
-import implementations.scrappers.AbstractScrapper;
 import com.gargoylesoftware.htmlunit.WebClient;
 import implementations.core.title.ITitle;
+import implementations.scrappers.AbstractScrapper;
+import implementations.scrappers.medium.title.ITitleScrapper;
 
 import java.util.HashSet;
 import java.util.Set;

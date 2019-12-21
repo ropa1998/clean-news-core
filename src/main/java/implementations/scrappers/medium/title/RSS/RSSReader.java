@@ -2,8 +2,8 @@ package implementations.scrappers.medium.title.RSS;
 
 
 import implementations.core.medium.IMedium;
-import implementations.core.title.Title;
 import implementations.core.title.ITitle;
+import implementations.core.title.Title;
 
 import javax.xml.stream.XMLEventReader;
 import javax.xml.stream.XMLInputFactory;
@@ -38,8 +38,8 @@ public class RSSReader {
         }
     }
 
-    private RSSFeed readFeed() {
-        RSSFeed feed = null;
+    private implementations.scrappers.medium.title.RSS.RSSFeed readFeed() {
+        implementations.scrappers.medium.title.RSS.RSSFeed feed = null;
         try {
             boolean isFeedHeader = true;
             // Set header values intial to the empty string
@@ -66,7 +66,7 @@ public class RSSReader {
                     if (localPart.equals(ITEM)) {
                         if (isFeedHeader) {
                             isFeedHeader = false;
-                            feed = new RSSFeed(title, link, description, language,
+                            feed = new implementations.scrappers.medium.title.RSS.RSSFeed(title, link, description, language,
                                     copyright, pubdate);
                         }
                         //We must skip one, that's why it is suppressed

@@ -1,9 +1,10 @@
 package implementations.scrappers.medium.title;
 
-import implementations.core.medium.AbstractMedium;
 import com.gargoylesoftware.htmlunit.WebClient;
-import implementations.scrappers.medium.title.RSS.RSSReader;
+import implementations.core.medium.AbstractMedium;
 import implementations.core.title.ITitle;
+import implementations.scrappers.medium.title.AbstractTitleScrapper;
+import implementations.scrappers.medium.title.RSS.RSSReader;
 
 import java.util.Set;
 

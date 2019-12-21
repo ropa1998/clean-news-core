@@ -1,5 +1,7 @@
 package implementations.scrappers.trend.network;
 
+import implementations.scrappers.trend.network.INetwork;
+
 public class Network implements INetwork {
 
 

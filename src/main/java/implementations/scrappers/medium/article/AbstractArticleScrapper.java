@@ -1,7 +1,8 @@
 package implementations.scrappers.medium.article;
 
-import implementations.scrappers.AbstractScrapper;
 import com.gargoylesoftware.htmlunit.WebClient;
+import implementations.scrappers.AbstractScrapper;
+import implementations.scrappers.medium.article.IArticleScrapper;
 
 public abstract class AbstractArticleScrapper extends AbstractScrapper implements IArticleScrapper {
 

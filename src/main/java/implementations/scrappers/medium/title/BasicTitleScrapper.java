@@ -1,14 +1,15 @@
 package implementations.scrappers.medium.title;
 
-import implementations.core.medium.AbstractMedium;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.DomElement;
 import com.gargoylesoftware.htmlunit.html.DomNodeList;
 import com.gargoylesoftware.htmlunit.html.HtmlElement;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
+import implementations.core.medium.AbstractMedium;
+import implementations.core.title.ITitle;
 import implementations.core.title.Title;
 import implementations.scrappers.Utils;
-import implementations.core.title.ITitle;
+import implementations.scrappers.medium.title.AbstractTitleScrapper;
 
 import javax.management.InvalidAttributeValueException;
 import java.util.List;

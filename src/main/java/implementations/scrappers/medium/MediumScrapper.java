@@ -1,9 +1,10 @@
 package implementations.scrappers.medium;
 
-import implementations.core.medium.AbstractMedium;
 import com.gargoylesoftware.htmlunit.WebClient;
 import implementations.core.article.IArticle;
+import implementations.core.medium.AbstractMedium;
 import implementations.core.title.ITitle;
+import implementations.scrappers.medium.IMediumScrapper;
 import implementations.scrappers.medium.article.IArticleScrapper;
 import implementations.scrappers.medium.title.ITitleScrapper;
 

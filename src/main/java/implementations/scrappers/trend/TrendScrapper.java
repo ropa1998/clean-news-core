@@ -5,10 +5,11 @@ import com.gargoylesoftware.htmlunit.html.DomElement;
 import com.gargoylesoftware.htmlunit.html.DomNodeList;
 import com.gargoylesoftware.htmlunit.html.HtmlElement;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
-import implementations.core.trend.Trend;
-import implementations.scrappers.trend.network.INetwork;
 import implementations.core.region.IRegion;
 import implementations.core.trend.ITrend;
+import implementations.core.trend.Trend;
+import implementations.scrappers.trend.AbstractTrendScrapper;
+import implementations.scrappers.trend.network.INetwork;
 
 import java.util.List;
 import java.util.Set;

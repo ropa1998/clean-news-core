@@ -1,7 +1,7 @@
 package implementations.scrappers.medium;
 
-import implementations.core.article.IArticle;
 import implementations.IRunnable;
+import implementations.core.article.IArticle;
 
 import java.util.Set;
 

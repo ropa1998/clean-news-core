@@ -69,11 +69,3 @@ dependencies {
     testCompile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.26'
     compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.0'
 }
-
-jar {
-    manifest {
-        attributes(
-                'Main-Class': 'Main'
-        )
-    }
-}

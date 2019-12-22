@@ -1,0 +1,6 @@
+<map id="implementations.ISource" name="implementations.ISource">
+<area shape="rect" id="node2" href="$interfaceimplementations_1_1core_1_1trend_1_1ITrend.html" title="implementations.core.trend.\lITrend" alt="" coords="261,5,444,47"/>
+<area shape="rect" id="node4" href="$interfaceimplementations_1_1scrappers_1_1trend_1_1network_1_1INetwork.html" title="implementations.scrappers.trend.network.\lINetwork" alt="" coords="220,71,485,112"/>
+<area shape="rect" id="node3" href="$classimplementations_1_1core_1_1trend_1_1Trend.html" title="implementations.core.trend.\lTrend" alt="" coords="575,5,757,47"/>
+<area shape="rect" id="node5" href="$classimplementations_1_1scrappers_1_1trend_1_1network_1_1Network.html" title="implementations.scrappers.trend.network.\lNetwork" alt="" coords="533,71,799,112"/>
+</map>

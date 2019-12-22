@@ -1,0 +1,8 @@
+<map id="implementations.scrappers.trend.AbstractTrendScrapper" name="implementations.scrappers.trend.AbstractTrendScrapper">
+<area shape="rect" id="node2" href="$classimplementations_1_1scrappers_1_1AbstractScrapper.html" title="implementations.scrappers.\lAbstractScrapper" alt="" coords="337,5,520,47"/>
+<area shape="rect" id="node4" href="$interfaceimplementations_1_1scrappers_1_1trend_1_1ITrendScrapper.html" title="implementations.scrappers.trend.\lITrendScrapper" alt="" coords="321,71,536,112"/>
+<area shape="rect" id="node5" href="$interfaceimplementations_1_1IRunnable.html" title="implementations.IRunnable" alt="" coords="5,78,185,105"/>
+<area shape="rect" id="node7" href="$interfaceimplementations_1_1core_1_1region_1_1IRegion.html" title="implementations.core.region.\lIRegion" alt="" coords="334,201,523,243"/>
+<area shape="rect" id="node8" href="$interfaceimplementations_1_1scrappers_1_1trend_1_1network_1_1INetwork.html" title="implementations.scrappers.trend.network.\lINetwork" alt="" coords="296,267,561,308"/>
+<area shape="rect" id="node9" href="$interfaceimplementations_1_1ISource.html" title="implementations.ISource" alt="" coords="12,274,179,301"/>
+</map>

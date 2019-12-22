@@ -1,0 +1,9 @@
+<map id="implementations.scrappers.AbstractScrapper" name="implementations.scrappers.AbstractScrapper">
+<area shape="rect" id="node2" href="$classimplementations_1_1scrappers_1_1medium_1_1article_1_1AbstractArticleScrapper.html" title="implementations.scrappers.medium.article.\lAbstractArticleScrapper" alt="" coords="236,15,507,56"/>
+<area shape="rect" id="node4" href="$classimplementations_1_1scrappers_1_1medium_1_1title_1_1AbstractTitleScrapper.html" title="implementations.scrappers.medium.title.\lAbstractTitleScrapper" alt="" coords="243,88,500,129"/>
+<area shape="rect" id="node7" href="$classimplementations_1_1scrappers_1_1trend_1_1AbstractTrendScrapper.html" title="implementations.scrappers.trend.\lAbstractTrendScrapper" alt="" coords="264,169,479,211"/>
+<area shape="rect" id="node3" href="$classimplementations_1_1scrappers_1_1medium_1_1article_1_1BasicAbstractArticleScrapper.html" title="implementations.scrappers.medium.article.\lBasicAbstractArticleScrapper" alt="" coords="555,5,825,47"/>
+<area shape="rect" id="node5" href="$classimplementations_1_1scrappers_1_1medium_1_1title_1_1BasicTitleScrapper.html" title="implementations.scrappers.medium.title.\lBasicTitleScrapper" alt="" coords="561,71,819,112"/>
+<area shape="rect" id="node6" href="$classimplementations_1_1scrappers_1_1medium_1_1title_1_1RSSTitleScrapper.html" title="implementations.scrappers.medium.title.\lRSSTitleScrapper" alt="" coords="561,136,819,177"/>
+<area shape="rect" id="node8" href="$classimplementations_1_1scrappers_1_1trend_1_1TrendScrapper.html" title="implementations.scrappers.trend.\lTrendScrapper" alt="" coords="583,201,797,243"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="implementations.IRunnable" name="implementations.IRunnable">
+<area shape="rect" id="node2" href="$classimplementations_1_1CleanNewsEngine.html" title="implementations.CleanNews\lEngine" alt="" coords="255,5,444,47"/>
+<area shape="rect" id="node3" href="$interfaceimplementations_1_1scrappers_1_1medium_1_1IMediumScrapper.html" title="implementations.scrappers.medium.\lIMediumScrapper" alt="" coords="233,71,465,112"/>
+<area shape="rect" id="node5" href="$interfaceimplementations_1_1scrappers_1_1trend_1_1ITrendScrapper.html" title="implementations.scrappers.trend.\lITrendScrapper" alt="" coords="242,136,457,177"/>
+<area shape="rect" id="node4" href="$classimplementations_1_1scrappers_1_1medium_1_1MediumScrapper.html" title="implementations.scrappers.medium.\lMediumScrapper" alt="" coords="513,71,745,112"/>
+<area shape="rect" id="node6" href="$classimplementations_1_1scrappers_1_1trend_1_1AbstractTrendScrapper.html" title="implementations.scrappers.trend.\lAbstractTrendScrapper" alt="" coords="522,136,737,177"/>
+<area shape="rect" id="node7" href="$classimplementations_1_1scrappers_1_1trend_1_1TrendScrapper.html" title="implementations.scrappers.trend.\lTrendScrapper" alt="" coords="793,136,1008,177"/>
+</map>

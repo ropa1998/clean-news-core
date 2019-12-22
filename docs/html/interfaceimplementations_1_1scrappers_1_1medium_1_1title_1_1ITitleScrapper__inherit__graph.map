@@ -1,0 +1,5 @@
+<map id="implementations.scrappers.medium.title.ITitleScrapper" name="implementations.scrappers.medium.title.ITitleScrapper">
+<area shape="rect" id="node2" href="$classimplementations_1_1scrappers_1_1medium_1_1title_1_1AbstractTitleScrapper.html" title="implementations.scrappers.medium.title.\lAbstractTitleScrapper" alt="" coords="311,39,568,80"/>
+<area shape="rect" id="node3" href="$classimplementations_1_1scrappers_1_1medium_1_1title_1_1BasicTitleScrapper.html" title="implementations.scrappers.medium.title.\lBasicTitleScrapper" alt="" coords="616,5,873,47"/>
+<area shape="rect" id="node4" href="$classimplementations_1_1scrappers_1_1medium_1_1title_1_1RSSTitleScrapper.html" title="implementations.scrappers.medium.title.\lRSSTitleScrapper" alt="" coords="616,71,873,112"/>
+</map>

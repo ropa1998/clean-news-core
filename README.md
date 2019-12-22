@@ -27,7 +27,7 @@ This will build a jar file with all necessary dependencies, which you can find i
 
 You may want to use this jar in a CleanNews project, as for example, the [clean-news-cli](https://github.com/ropa1998/clean-news-cli) app. 
 
-In order to understand how it works please refer to the project [documentation]().   
+In order to understand how it works please refer to the project [documentation](https://ropa1998.github.io/clean-news-core/).   
 
 ## License
 

@@ -1,4 +1,4 @@
-# CleanNews Core
+# clean-news-core
 
 This project provides the base classes and logic for all [Clean News](https://github.com/ropa1998/clean-news) projects.
 

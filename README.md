@@ -1,5 +1,7 @@
 # clean-news-core
 
+[![](https://jitpack.io/v/ropa1998/clean-news-core.svg)](https://jitpack.io/#ropa1998/clean-news-core)
+
 This project provides the base classes and logic for all [Clean News](https://github.com/ropa1998/clean-news) projects.
 
 ## Table of contents

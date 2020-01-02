@@ -11,11 +11,13 @@ plugins {
     id 'java-library'
 
     // Apply the application plugin to add support for building an application
-    id 'maven-publish'
+    id 'maven'
 
     id "com.github.johnrengelman.shadow" version "5.2.0"
 
 }
+
+group = 'com.github.ropa1998'
 
 sourceCompatibility = 1.8
 
@@ -23,37 +25,6 @@ sourceCompatibility = 1.8
 repositories {
     mavenCentral()
     mavenLocal()
-}
-
-
-publishing {
-    publications {
-        mavenJava(MavenPublication) {
-            pom {
-                name = 'clean-news-core'
-                description = 'A library that provides tools that allow users to scrap articles and trends from the Web. There is also a built-in component to cross the articles and trends'
-                url = 'https://github.com/ropa1998/clean-news-core'
-                licenses {
-                    license {
-                        name = 'The Apache License, Version 2.0'
-                        url = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
-                    }
-                }
-                developers {
-                    developer {
-                        id = 'ropa1998'
-                        name = 'Rodrigo Pazos'
-                        email = 'ropa1998@gmail.com'
-                    }
-                }
-                scm {
-                    connection = 'scm:git:git://example.com/my-library.git'
-                    developerConnection = 'scm:git:ssh://example.com/my-library.git'
-                    url = 'https://github.com/ropa1998/clean-news-core'
-                }
-            }
-        }
-    }
 }
 
 

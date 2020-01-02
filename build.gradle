@@ -36,42 +36,4 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.3.1'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.3.1'
     compile group: 'net.sourceforge.htmlunit', name: 'htmlunit', version: '2.34.1'
-    compile group: 'com.rometools', name: 'rome', version: '1.12.0'
-    testCompile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.26'
-    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.0'
-}
-
-task sourcesJar(type: Jar, dependsOn: classes) {
-    classifier = 'sources'
-    from sourceSets.main.allSource
-}
-
-task javadocJar(type: Jar, dependsOn: javadoc) {
-    classifier = 'javadoc'
-    from javadoc.destinationDir
-}
-
-shadowJar {
-    archiveName = "$baseName-$version.$extension"
-}
-
-artifacts {
-    archives sourcesJar
-    archives javadocJar
-    archives shadowJar
-}
-
-// To specify a license in the pom:
-install {
-    repositories.mavenInstaller {
-        pom.project {
-            licenses {
-                license {
-                    name 'The Apache Software License, Version 2.0'
-                    url 'http://www.apache.org/licenses/LICENSE-2.0.txt'
-                    distribution 'repo'
-                }
-            }
-        }
-    }
 }

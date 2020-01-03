@@ -18,6 +18,8 @@ First of all you will need to clone the project. Then you will want to build it
 
 This will build a jar file with all necessary dependencies, which you can find in `clean-news-core/build/libs/clean-news-core-all.jar`
 
+You can also get the code for any Maven or Gradle project by using [jitpack.io](https://jitpack.io/#ropa1998/clean-news-core) and getting the latest re
+
 ## Usage
 
 You may want to use this jar in a CleanNews project, as for example, the [clean-news-cli](https://github.com/ropa1998/clean-news-cli) app. 

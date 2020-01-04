@@ -9,4 +9,8 @@ public class Medium extends AbstractMedium {
         super(name, scrapperStartingUrl, titleKeyCSS);
     }
 
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
